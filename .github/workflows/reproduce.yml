@@ -1,22 +1,29 @@
 name: Reproduce aggregate analyses
-on: [push, workflow_dispatch]
+on: [push, pull_request, workflow_dispatch]
 permissions:
   contents: read
 jobs:
   reproduce:
-    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-24.04, windows-2022]
+    runs-on: ${{ matrix.os }}
+    timeout-minutes: 15
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
         with:
           python-version: '3.14'
           cache: pip
       - run: pip install -r requirements.txt
-      - run: python scripts/analyze.py
-      - run: python -m unittest discover -s tests -v
-      - uses: actions/upload-artifact@v4
+      - run: python scripts/reproduce.py
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02 # v4
+        if: always()
         with:
-          name: reproduced-results
+          name: reproduced-results-${{ matrix.os }}
           path: |
             results/
             paper/figures/
+            runs/latest.json
+          retention-days: 30

@@ -32,10 +32,10 @@ def countries():
  assert not d.duplicated(['geo_id','date_start','metric_id']).any()
  wide=d.pivot(index=['geo_id','date_start'],columns='metric_id',values='value').reset_index()
  oldpath=ROOT/'data/inputs/aei_2025_enriched.csv'
- old=pd.read_csv(oldpath if oldpath.exists() else RAW/'aei_2025_enriched.csv')
+ old=pd.read_csv(oldpath)
  old=old[(old.geography=='country')&(old.facet=='country')]
  old=old.pivot(index='geo_id',columns='variable',values='value').add_suffix('_2025').reset_index()
- names=pd.read_csv(oldpath if oldpath.exists() else RAW/'aei_2025_enriched.csv',usecols=['geo_id','geo_name']).drop_duplicates().drop_duplicates('geo_id')
+ names=pd.read_csv(oldpath,usecols=['geo_id','geo_name']).drop_duplicates().drop_duplicates('geo_id')
  wide=wide.merge(old,on='geo_id',how='left',validate='many_to_one').merge(names,on='geo_id',how='left',validate='many_to_one')
  features=['use_case_work_pct','use_case_coursework_pct','collaboration_bucket_automation_pct','ai_autonomy_mean','human_education_years_mean']
  may=wide[wide.date_start=='2026-05-01'].copy()
@@ -70,7 +70,7 @@ def countries():
   ax.scatter(g.use_case_work_pct,g.collaboration_bucket_automation_pct,label=f'Grupo {cl} (n={len(g)})',alpha=.72,s=32)
  br=valid[valid.geo_id=='BRA'].iloc[0]; ax.annotate('Brasil',(br.use_case_work_pct,br.collaboration_bucket_automation_pct),xytext=(5,-15),textcoords='offset points',fontweight='bold')
  ax.set(xlabel='Conversas classificadas como trabalho (%)',ylabel='Colaboração classificada como automação (%)',title='Perfis de uso por país: agrupamento exploratório em cinco variáveis')
- ax.legend(fontsize=8); fig.text(.1,.01,'Fonte: Anthropic Economic Index, maio/2026. Países com células publicadas; não é prevalência populacional.',fontsize=8); fig.tight_layout(rect=[0,.04,1,1]); fig.savefig(FIG/'countries.pdf'); plt.close(fig)
+ ax.legend(fontsize=8); fig.text(.1,.01,'Fonte: Anthropic Economic Index, maio/2026. Países com células publicadas; não é prevalência populacional.',fontsize=8); fig.tight_layout(rect=[0,.04,1,1]); fig.savefig(FIG/'countries.pdf',metadata={'CreationDate':None,'ModDate':None}); plt.close(fig)
 
 def sectors():
  frames=[]
@@ -85,7 +85,7 @@ def sectors():
  fig,ax=plt.subplots(figsize=(8.5,4.8)); y=np.arange(len(top))
  ax.barh(y-.17,top.pct_chat,.34,label='Claude chat/Cowork',color='#737373'); ax.barh(y+.17,top.pct_api,.34,label='API direta',color='#24648a')
  ax.set(yticks=y,yticklabels=top.node_name,xlabel='Participação nas tarefas classificadas no canal (%)',title='Grupos ocupacionais: composições diferentes entre canais')
- ax.tick_params(axis='y',labelsize=8); ax.legend(); fig.text(.03,.01,'Fonte: Anthropic, maio/2026. API exclui Claude Code; grupos SOC não equivalem a setores industriais.',fontsize=8); fig.tight_layout(rect=[0,.05,1,1]); fig.savefig(FIG/'occupations.pdf'); plt.close(fig)
+ ax.tick_params(axis='y',labelsize=8); ax.legend(); fig.text(.03,.01,'Fonte: Anthropic, maio/2026. API exclui Claude Code; grupos SOC não equivalem a setores industriais.',fontsize=8); fig.tight_layout(rect=[0,.05,1,1]); fig.savefig(FIG/'occupations.pdf',metadata={'CreationDate':None,'ModDate':None}); plt.close(fig)
  dump('occupation_summary.json',compare.nlargest(6,'pct_api').to_dict('records'))
 
 def design(y):
@@ -99,8 +99,7 @@ def ridge_forecast(y,h):
   z=float(np.clip(model.predict(row)[0],0,100)); pred.append(z); hist.append(z)
  return np.array(pred)
 def gateway():
- file=RAW/'vercel_labs.json'
- if not file.exists(): file=ROOT/'data/inputs/vercel_labs.json'
+ file=ROOT/'data/inputs/vercel_labs.json'
  raw=json.loads(file.read_text()); d=pd.DataFrame(raw['rows']); d=d[d.metric.isin(['tokens','spend','requests'])].copy()
  assert not d.duplicated(['date','name','metric']).any()
  totals=d.groupby(['date','metric']).share_percent.sum()
@@ -142,12 +141,13 @@ def gateway():
  for name in avg.head(4).index: axs[0].plot(pd.to_datetime(t.index),t[name],label=name,linewidth=1.5)
  axs[0].set(title='Participação diária de tokens por laboratório',xlabel='Data (2026)',ylabel='Tokens do gateway (%)'); axs[0].legend(fontsize=7)
  axs[1].plot(pd.to_datetime(t.index),y,color='#555555',label=f'Observado: {leader}')
- axs[1].plot(dates,forecast,color='#24648a',label=f'Projeção: {best}')
+ model_labels={'seasonal7':'repetição de 7 dias','ridge':'Ridge','persistence':'persistência','drift':'tendência linear'}
+ axs[1].plot(dates,forecast,color='#24648a',label=f'Projeção: {model_labels[best]}')
  axs[1].fill_between(dates,fut.descriptive_error_lower,fut.descriptive_error_upper,alpha=.15,color='#24648a',label='Faixa descritiva de erro')
  axs[1].set(title='Projeção local de participação: 14 dias',xlabel='Data (2026)',ylabel='Tokens do gateway (%)'); axs[1].legend(fontsize=7)
  for ax in axs: ax.tick_params(axis='x',rotation=35,labelsize=7)
  fig.text(.05,.01,'Fonte: Vercel, modalidade texto. Faixa baseada em erros de backtest; não é intervalo de confiança calibrado.',fontsize=8)
- fig.tight_layout(rect=[0,.06,1,1]); fig.savefig(FIG/'gateway_forecast.pdf'); plt.close(fig)
+ fig.tight_layout(rect=[0,.06,1,1]); fig.savefig(FIG/'gateway_forecast.pdf',metadata={'CreationDate':None,'ModDate':None}); plt.close(fig)
 
 def scenarios():
  annual=24**.25
@@ -155,10 +155,10 @@ def scenarios():
  pd.DataFrame(data).to_csv(OUT/'scenarios_2027.csv',index=False)
  dump('scenario_summary.json',{'goldman_implied_annual_factor':annual,'goldman_forecast_monthly_2030_tokens':120e15,'openweight_relative_cost':23/71.5,'closed_relative_cost':77/28.5,'closed_to_open_cost_ratio':(77/28.5)/(23/71.5),'note':'Illustrative sensitivity, not fitted global forecast; assumes constant mix and definitions.'})
 
-def cross_sources():
+def cross_sources(rebuild=False):
  from bs4 import BeautifulSoup
  htmlpath=RAW/'github_2026.html'
- if htmlpath.exists():
+ if rebuild:
   soup=BeautifulSoup(htmlpath.read_text(encoding='utf-8'),'html.parser')
   table=soup.find_all('table')[0]
   mapping={'United States':'USA','India':'IND','China':'CHN','Brazil':'BRA','Japan':'JPN','United Kingdom':'GBR','Indonesia':'IDN','Germany':'DEU','Russia':'RUS','France':'FRA'}
@@ -176,11 +176,12 @@ def cross_sources():
  rho=spearmanr(complete.github_accounts_per_1000_working_age,complete.usage_per_capita_index).statistic
  dump('cross_sources_summary.json',{'github_top_countries':len(gh),'matched_countries':len(complete),'excluded_countries':cross.loc[cross['_merge']!='both','github_country'].tolist(),'spearman_rho':rho,'warning':'Top-10 selected sample, mismatched months and accounts not persons; no causal inference.','brazil':cross[cross.geo_id=='BRA'][['github_accounts_millions','github_accounts_per_1000_working_age','usage_per_capita_index']].to_dict('records')})
 
-if __name__=='__main__':
+def run():
  inputs=ROOT/'data/inputs'
- if (inputs/'countries_input.csv').exists():
-  import shutil
-  for name in ['countries_input.csv','aei_2026_chat_global.csv','aei_2026_api_global.csv']: shutil.copy2(inputs/name,OUT/name)
- else: extract()
+ import shutil
+ for name in ['countries_input.csv','aei_2026_chat_global.csv','aei_2026_api_global.csv']: shutil.copy2(inputs/name,OUT/name)
  countries(); sectors(); gateway(); scenarios(); cross_sources()
  print('Analysis complete. See results/*.json and paper/figures/*.pdf')
+
+if __name__=='__main__':
+ run()

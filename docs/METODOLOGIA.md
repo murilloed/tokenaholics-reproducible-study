@@ -29,3 +29,9 @@ Custo proporcional = quantidade relativa × preço efetivo relativo, mantendo co
 ## O que não foi feito
 
 Não houve pré-registro, causalidade identificada, diagnóstico, coleta de participantes, pareamento de pessoas entre plataformas ou estimativa da prevalência de dependência. Nenhum resultado autoriza pontuar países ou funcionários como “viciados”. O conceito Tokenaholics permanece propositivo e sujeito à validação independente.
+
+## Contrato operacional de reprodução
+
+A versão `v0.3.0` usa seis entradas congeladas em `data/inputs/`, verificadas por SHA-256 antes da análise. A rotina `scripts/reproduce.py` compara cinco sínteses com `data/reference_results.json`, usando tolerância relativa de 1e-7 e absoluta de 1e-8; a referência não é reescrita pela reprodução. As tabelas detalhadas têm hashes por execução para rastreamento. A inspeção visual do artigo é uma etapa separada, registrada explicitamente após renderização.
+
+A reprodução canônica não lê `data/raw/`, ainda que esses arquivos existam. Extração dos brutos e atualização dos snapshots exigem `rebuild_inputs.py`; alterações das entradas devem motivar investigação de divergências e, quando apropriado, outra versão. O registro em `runs/latest.json` inclui commit, árvore de trabalho modificada ou limpa, sistema, Python, pacotes e estado das verificações. Referências de arquivos, métodos e leitura das figuras estão em `RESULTADOS_ESPERADOS.md`.

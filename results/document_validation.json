@@ -1,9 +1,20 @@
 {
-  "pages_including_references": 19,
+  "pdf": "paper/Tokenaholics-v0.3.0.pdf",
+  "version": "0.3.0",
+  "pages_including_references": 20,
   "limit": 25,
   "references": 29,
   "figures": 3,
   "latex_problems": [],
   "visual_review": "Todas as páginas renderizadas e inspecionadas; sem cortes ou sobreposição observados.",
-  "checks": "Six numerical and provenance tests; offline reproduction; temporal holdout retained."
+  "checks": "Numerical reference comparison, input provenance, scientific integrity tests and temporal holdout; see runs/latest.json.",
+  "pdf_sha256": "84045bc3382f1ef878221423bb389974ebce014bfc3bc88668397af9f221d439",
+  "text_source_normalization": "UTF-8 with line endings normalized to LF",
+  "source_sha256": {
+    "paper/main.tex": "8de0e1223deda513c62624428de29805971172e6bf54442c5e7a620149ca2ea2",
+    "paper/reference.bib": "b07441392b5239732ce31d01de1643ebd1f2b180718268891e52dc9217217d2f",
+    "paper/figures/countries.pdf": "c95cc87bc8b426f36643c1eb3a923a47810510737d6785f22a56e10e32c5df97",
+    "paper/figures/occupations.pdf": "1699dfe8c7dad9dc4d8aee7f9ea52164daeaf83aba59c4884cf9d397aee07187",
+    "paper/figures/gateway_forecast.pdf": "470ab30332172316dfbbfe957e0e617c256f437892add1953f56cc94d3278caa"
+  }
 }

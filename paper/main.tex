@@ -169,9 +169,13 @@ O ARI mediano entre inicializações foi 0,983. Na subamostragem, a mediana foi 
 
 \begin{figure}[htbp]
 \centering\includegraphics[width=\linewidth]{figures/countries.pdf}
-\caption{Projeção em duas dimensões do agrupamento calculado em cinco variáveis. Fonte: análise própria dos agregados Anthropic de maio de 2026. A figura não representa classificação clínica de países.}
+\caption{Perfis nacionais de uso em maio de 2026. Cada ponto representa um país; as cores indicam os grupos de K-means calculados em cinco variáveis padronizadas. Os eixos mostram duas dessas variáveis em suas escalas originais: uso para trabalho e colaboração classificada como automação, em porcentagem. Fonte: análise própria dos agregados Anthropic.}
 \label{fig:countries}
 \end{figure}
+
+Na Figura~\ref{fig:countries}, deslocar-se para a direita significa maior participação de conversas classificadas como trabalho; deslocar-se para cima significa maior proporção de colaboração classificada como automação. Cada país recebe um ponto de mesmo tamanho, independentemente de população ou volume de uso. As cores identificam os 69 países do grupo 1 e os 52 do grupo 2. A visualização utiliza duas coordenadas observadas, e não componentes de uma redução por PCA. Como o agrupamento considera também estudo formal, autonomia e escolaridade estimada da tarefa, pontos próximos nesse plano podem pertencer a grupos diferentes. A sobreposição é, portanto, compatível com a construção do modelo e com a separação apenas moderada.
+
+O Brasil aparece à direita da maior parte dos países, com 57,35\% de uso para trabalho, e em posição intermediária no eixo de automação, com 51,18\%. Essa combinação indica um perfil mais orientado a tarefas profissionais no recorte publicado, sem identificar o país de maior automação ou demonstrar dependência. O contraste entre as cores sugere diferenças de composição de uso; a comparação dos perfis em cinco dimensões e a estabilidade por subamostragem fornecem evidência mais completa do que a distância visual entre dois pontos.
 
 No Brasil, a participação do uso publicado passa de 2,81\% em abril para 3,33\% em maio, e o índice per capita de 0,86 para 0,96. O último valor significa uso próximo, mas ainda inferior, ao proporcional à população em idade ativa na definição do índice. A colaboração classificada como automação cai ligeiramente de 51,51\% para 51,18\%. O país pertence ao grupo 1, mas não pode ser descrito como mais ou menos ``dependente'' com base nesses indicadores. O valor de agosto de 2025, 0,926, é uma referência adicional; diferenças de produto, janela e classificação impedem inferir uma trajetória mensal contínua.
 
@@ -187,9 +191,13 @@ No recorte de maio de 2026, tarefas de computação e matemática representam 23
 
 \begin{figure}[htbp]
 \centering\includegraphics[width=\linewidth]{figures/occupations.pdf}
-\caption{Participações relativas em grupos SOC nos canais publicados pela Anthropic, maio de 2026. Cada canal conserva seu denominador. A API exclui Claude Code.}
+\caption{Composição ocupacional por canal em maio de 2026. São exibidos os oito grupos SOC com maior participação na API, ordenados pela participação nesse canal. Barras cinza representam chat/Cowork e barras azuis, API direta. O comprimento de cada barra indica a participação percentual nas tarefas classificadas do respectivo canal. Fonte: análise própria dos agregados Anthropic. A API exclui Claude Code.}
 \label{fig:occupations}
 \end{figure}
+
+A leitura da Figura~\ref{fig:occupations} é horizontal: o eixo vertical identifica grupos ocupacionais, e o eixo horizontal mede sua participação nas tarefas classificadas de cada canal. Para uma mesma ocupação, a diferença entre as barras indica especialização relativa do canal. Computação e matemática têm a maior participação nos dois canais exibidos, com vantagem de 4,37 pontos percentuais na API; apoio administrativo apresenta diferença de 4,03 pontos a favor da API. Educação e biblioteca, por sua vez, têm participação 6,63 pontos maior no chat. O gráfico mostra, assim, perfis de demanda distintos, consistentes com interfaces e formas de integração diferentes.
+
+Os oito grupos foram selecionados pela participação na API, e não por uma lista completa de setores ou pelo maior crescimento. Cada par de barras usa dois denominadores: 28,17\% na API e 23,80\% no chat não permitem concluir que a API tenha mais conversas de computação em termos absolutos. Os comprimentos representam participação ocupacional; os percentuais de automação de 94,58\% e 63,90\%, discutidos no texto, constituem outra métrica e não estão codificados nessas barras. Preservar essas distinções evita confundir composição de tarefas, quantidade de trabalhadores e intensidade de delegação.
 
 O contraste ajuda a explicar por que um painel empresarial de APIs pode mostrar automação muito superior à observada em conversas de pessoas. Mudança de composição, ferramenta e interface é uma explicação concorrente ao suposto crescimento de dependência. Como o recorte de API exclui Claude Code, nem mesmo a categoria de computação representa todo o uso de agentes de programação. Tampouco se deve substituir a classificação ocupacional SOC pela industrial NAICS usada no Octoverse.
 
@@ -205,9 +213,13 @@ No backtest de 14 dias, a repetição sazonal de sete dias apresenta MAE de 5,04
 
 \begin{figure}[htbp]
 \centering\includegraphics[width=\linewidth]{figures/gateway_forecast.pdf}
-\caption{Participações observadas e exercício prospectivo local na Vercel. O método exibido foi selecionado no backtest; a faixa é descritiva. A previsão se refere a participação relativa no gateway, sem implicar consumo absoluto ou demanda mundial.}
+\caption{Participações de tokens e exercício de previsão na Vercel, modalidade texto. À esquerda, séries diárias dos quatro laboratórios de maior média com cobertura completa. À direita, a série observada de DeepSeek em cinza, a projeção de 14 dias por repetição sazonal de sete dias em azul e uma faixa descritiva de erro. As duas escalas verticais são percentuais dos tokens do gateway; não representam volume absoluto. Fonte: análise própria do snapshot Vercel.}
 \label{fig:forecast}
 \end{figure}
+
+O painel esquerdo da Figura~\ref{fig:forecast} descreve a distribuição relativa dos tokens ao longo das 61 datas. Cada linha corresponde a um laboratório e cada ponto temporal, a sua parcela dos tokens de texto do gateway naquele dia. A redução da participação de DeepSeek ocorre enquanto outras séries ganham espaço relativo, mas o gráfico exibe apenas quatro laboratórios: as linhas mostradas não precisam somar 100\%. Uma participação em queda pode coexistir com crescimento do volume absoluto se o total do gateway aumentar. Sem os totais diários, não se quantifica demanda perdida ou crescimento mundial a partir dessas curvas.
+
+No painel direito, a linha cinza reproduz a série de DeepSeek utilizada no experimento; a linha azul começa após a última observação e repete, por duas semanas, as participações dos sete dias anteriores. Seu formato periódico decorre da regra do baseline selecionado no backtest, sem demonstrar que um ciclo semanal persistirá. O sombreado corresponde à projeção acrescida e subtraída de aproximadamente 9,02 pontos percentuais, valor do percentil 90 dos erros absolutos de backtest, com limites em 0 e 100. Essa faixa não possui cobertura probabilística validada. A mudança do melhor método no teste final recomenda tratar a figura como exploração de sensibilidade de curto prazo, sem extrapolá-la para 2027 ou para consumo absoluto.
 
 A extrapolação de 14 dias é divulgada como exercício de sensibilidade, não como ferramenta pronta para decisão de investimento. O horizonte curto, o teste final de apenas cinco dias e as janelas sobrepostas impedem uma avaliação robusta de incerteza. O achado metodológico é relevante: executar ML não obriga a preferi-lo, e apresentar sua limitação é parte do resultado científico.
 
@@ -320,7 +332,7 @@ Uma investigação responsável deve permitir que a proposta fracasse: usuários
 \noindent\textbf{Autoria da proposta conceitual:} Murillo Edson de Carvalho Souza apresenta neste manuscrito a definição de trabalho de Tokenaholics. Não se reivindica prioridade lexical mundial comprovada.
 
 \medskip
-\noindent\textbf{Disponibilidade e transparência:} código, entradas agregadas redistribuíveis, resultados, sementes, metadados e instruções de reprodução estão no repositório do projeto: \url{https://github.com/murilloed/tokenaholics-reproducible-study}. Textos de terceiros são preservados no arquivo de pesquisa local, com links e direitos próprios; sua disponibilidade pública não é presumida. Não foram coletados dados de participantes. A preparação do manuscrito contou com assistência de IA generativa na pesquisa, organização e redação; o texto permanece sujeito à revisão crítica e à aprovação do autor antes de submissão.
+\noindent\textbf{Disponibilidade e transparência:} código, entradas agregadas redistribuíveis, resultados, sementes, metadados e instruções constam da versão \texttt{v0.3.0} do projeto: \url{https://github.com/murilloed/tokenaholics-reproducible-study}. A reprodução confere os hashes de seis entradas, recalcula as análises e compara cinco sínteses com uma referência numérica fixa, usando tolerâncias explícitas. O ambiente e o commit são registrados por execução. O acesso ao repositório privado depende de autorização; a versão não possui DOI atribuído. Textos de terceiros permanecem no arquivo local de pesquisa, com links e direitos próprios. Não foram coletados dados de participantes. A preparação contou com assistência de IA generativa na pesquisa, organização e redação; o manuscrito permanece sujeito à revisão crítica e à aprovação do autor antes de submissão.
 
 \bibliographystyle{IEEEtran}
 \bibliography{reference}

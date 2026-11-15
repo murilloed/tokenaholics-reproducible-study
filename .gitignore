@@ -15,3 +15,6 @@ research_private/
 data/countries_2026_raw.csv
 data/aei_2026_chat_global.csv
 data/aei_2026_api_global.csv
+runs/
+paper/build/
+paper/main.pdf

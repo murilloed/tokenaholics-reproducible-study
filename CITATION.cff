@@ -6,6 +6,7 @@ authors:
   - family-names: "Souza"
     given-names: "Murillo Edson de Carvalho"
     affiliation: "Universidade de Brasília — Departamento de Ciências da Computação"
-version: 0.2.0
+version: 0.3.0
+url: "https://github.com/murilloed/tokenaholics-reproducible-study/tree/v0.3.0"
 repository-code: "https://github.com/murilloed/tokenaholics-reproducible-study"
 license: MIT
