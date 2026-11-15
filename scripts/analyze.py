@@ -84,7 +84,7 @@ def sectors():
  top=compare.nlargest(8,'pct_api').sort_values('pct_api')
  fig,ax=plt.subplots(figsize=(8.5,4.8)); y=np.arange(len(top))
  ax.barh(y-.17,top.pct_chat,.34,label='Claude chat/Cowork',color='#737373'); ax.barh(y+.17,top.pct_api,.34,label='API direta',color='#24648a')
- ax.set(yticks=y,yticklabels=top.node_name,xlabel='Participação nas tarefas classificadas no canal (%)',title='Grupos ocupacionais: composições diferentes entre canais')
+ ax.set(yticks=y,yticklabels=top.node_name,xlabel='Participação publicada no uso do canal (%)',title='Grupos ocupacionais: composições diferentes entre canais')
  ax.tick_params(axis='y',labelsize=8); ax.legend(); fig.text(.03,.01,'Fonte: Anthropic, maio/2026. API exclui Claude Code; grupos SOC não equivalem a setores industriais.',fontsize=8); fig.tight_layout(rect=[0,.05,1,1]); fig.savefig(FIG/'occupations.pdf',metadata={'CreationDate':None,'ModDate':None}); plt.close(fig)
  dump('occupation_summary.json',compare.nlargest(6,'pct_api').to_dict('records'))
 
@@ -98,6 +98,18 @@ def ridge_forecast(y,h):
   row=pd.DataFrame([[hist[-1],hist[-7],np.mean(hist[-7:]),len(hist)]],columns=x.columns)
   z=float(np.clip(model.predict(row)[0],0,100)); pred.append(z); hist.append(z)
  return np.array(pred)
+
+def select_forecast_series(panel,training_days=28):
+ # Eligibility and rank depend solely on the initial training window.
+ initial=panel.iloc[:training_days].dropna(axis=1)
+ if initial.empty:
+  raise ValueError('No complete series in the initial training window.')
+ leader=initial.mean().idxmax()
+ series=panel[leader]
+ if series.isna().any():
+  raise ValueError('The training-selected series has later missing observations; do not replace the target using future coverage.')
+ return leader,series.to_numpy()
+
 def gateway():
  file=ROOT/'data/inputs/vercel_labs.json'
  raw=json.loads(file.read_text()); d=pd.DataFrame(raw['rows']); d=d[d.metric.isin(['tokens','spend','requests'])].copy()
@@ -108,9 +120,7 @@ def gateway():
  wide['relative_spend_per_token']=wide.spend/wide.tokens.replace(0,np.nan)
  wide.to_csv(OUT/'gateway_lab_panel.csv',index=False)
  t=d[d.metric=='tokens'].pivot(index='date',columns='name',values='share_percent').sort_index()
- complete=t.dropna(axis=1)
- # Selection uses only the initial training window, not future observations.
- leader=complete.iloc[:28].mean().idxmax(); y=complete[leader].to_numpy(); records=[]
+ leader,y=select_forecast_series(t); records=[]
  for origin in range(28,len(y)-13,7):
   train=y[:origin]; truth=y[origin:origin+14]
   forecasts={'ridge':ridge_forecast(train,14),'persistence':np.repeat(train[-1],14),'seasonal7':np.tile(train[-7:],2),'drift':np.clip(train[-1]+np.arange(1,15)*(train[-1]-train[0])/(len(train)-1),0,100)}

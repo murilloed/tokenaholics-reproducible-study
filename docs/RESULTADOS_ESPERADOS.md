@@ -6,7 +6,7 @@ Os números identificam o snapshot desta edição. A referência legível pela m
 
 Arquivos: `paper/figures/countries.pdf`, `results/countries_clusters.csv`, `cluster_profiles.csv` e `countries_summary.json`. Rotina: `countries()`.
 
-São esperados 121 países, dois grupos (69 e 52) e silhouette de aproximadamente 0,307834. O ARI mediano por subamostragem é 0,886763; o mínimo é 0,488160: separação moderada e sensibilidade de algumas fronteiras.
+São esperados 121 países, dois grupos (69 e 52) e silhouette de aproximadamente 0,307834. O ARI mediano por subamostragem é 0,886763; o mínimo é 0,488160: separação limitada e sensibilidade de algumas fronteiras.
 
 Cada ponto é um país. O eixo horizontal é uso para trabalho; o vertical, classificação de automação, em percentuais originais. As cores vêm de cinco variáveis padronizadas; não é PCA. No Brasil, os valores são 57,35% e 51,18%. O ponto não codifica população, gasto ou diagnóstico.
 
@@ -14,7 +14,7 @@ Cada ponto é um país. O eixo horizontal é uso para trabalho; o vertical, clas
 
 Arquivos: `paper/figures/occupations.pdf`, `results/occupation_profiles.csv`, `occupation_comparison.csv` e `occupation_summary.json`. Rotina: `sectors()` — nome interno histórico; a unidade científica é grupo SOC, não setor industrial.
 
-Exibe os oito maiores grupos por participação na API em maio de 2026. Cinza é chat/Cowork e azul, API direta. Computação e matemática têm 23,80% e 28,17% (diferença de 4,37 pontos). Educação e biblioteca têm 12,79% e 6,16%. Cada canal tem seu denominador. As barras não medem volume absoluto ou emprego; os percentuais de automação discutidos no texto são outra métrica.
+Exibe os oito maiores grupos por participação na API em maio de 2026. Cinza é chat/Cowork e azul, API direta. Computação e matemática têm 23,80% e 28,17% (diferença de 4,37 pontos). Educação e biblioteca têm 12,79% e 6,16%. Cada canal tem seu denominador. Os 22 grupos publicados somam 98,74% e 91,56%, preservados sem renormalização. As barras não medem volume absoluto ou emprego; os percentuais de automação discutidos no texto são outra métrica.
 
 ## Figura 3 — observação e projeção local
 

@@ -1,5 +1,15 @@
 # Histórico de versões
 
+## 0.3.1
+
+- Revisão de coerência entre pergunta, objetivos, resumo, métodos, resultados e conclusões.
+- Distinção explícita entre fundamentação conceitual, descrição agregada e hipóteses de validação futura.
+- Denominadores ocupacionais corrigidos no texto e no eixo da figura: percentuais publicados sem renormalização.
+- Seleção do alvo de previsão limitada à janela inicial; verificação posterior de completude sem troca do alvo. Os valores permanecem iguais à referência de v0.3.0.
+- Descrição de estabilidade do agrupamento, sobreposição dos testes temporais e cenários de composição constante alinhada ao código.
+- Separação limitada dos grupos descrita com cautela; inferências sobre consumo absoluto retiradas de resultados baseados em participações.
+- Metadados bibliográficos pontuais corrigidos e revisão de alinhamento documentada.
+
 ## 0.3.0
 
 - README com instalação, reprodução, saídas esperadas, versão, acesso e licenças.

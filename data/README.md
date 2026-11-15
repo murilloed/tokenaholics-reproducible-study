@@ -25,7 +25,7 @@ As extrações Anthropic usam a revisão em `hf_revision.txt`. A tabela GitHub �
 - `collaboration_bucket_automation_pct`: classificação do fornecedor entre padrões de colaboração; não é medida clínica.
 - `ai_autonomy_mean`: média da escala de autonomia atribuída à IA, de 1 a 5.
 - `human_education_years_mean`: anos de escolaridade humana estimados para a tarefa, não escolaridade observada dos usuários.
-- `pct` no recorte SOC: participação ocupacional no respectivo canal, com denominadores distintos.
+- `pct` no recorte SOC: participação publicada para o nó SOC no total geográfico do respectivo canal, sem renormalização entre os grupos disponíveis. Os 22 grupos de maio somam 98,74% no chat e 91,56% na API.
 - `share_percent` na Vercel: participação diária percentual de tokens, gasto ou requisições; cada métrica tem seu total.
 
 ## Ausências e transformações

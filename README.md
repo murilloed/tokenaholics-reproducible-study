@@ -4,14 +4,15 @@
 
 **Autor:** Murillo Edson de Carvalho Souza — Universidade de Brasília (UnB), Departamento de Ciências da Computação.
 
-**Versão de pesquisa:** `v0.3.0`. **Natureza:** revisão crítica interdisciplinar e análise exploratória secundária de agregados públicos de 2025–2026.
+**Versão de pesquisa:** `v0.3.1`. **Natureza:** revisão crítica interdisciplinar e análise exploratória secundária de agregados públicos de 2025–2026.
 
 O projeto investiga diferenças geográficas e ocupacionais no uso de IA, relações entre participação de tokens e gasto e os limites da previsão com séries curtas. **Tokenaholics é uma proposta conceitual, sem validação diagnóstica.** Os dados não identificam indivíduos, equipes ou países como dependentes de IA.
 
 ## Comece por aqui
 
-- [Artigo em PDF — v0.3.0](paper/Tokenaholics-v0.3.0.pdf) e [fonte LaTeX](paper/main.tex).
+- [Artigo em PDF — v0.3.1](paper/Tokenaholics-v0.3.1.pdf) e [fonte LaTeX](paper/main.tex).
 - [Escopo e perguntas de pesquisa](docs/ESCOPO.md).
+- [Revisão de coerência entre discurso, dados e resultados](docs/REVISAO_COERENCIA.md).
 - [Métodos e limites](docs/METODOLOGIA.md).
 - [Resultados esperados e vínculo com as figuras](docs/RESULTADOS_ESPERADOS.md).
 - [Dicionário de dados e proveniência](data/README.md).
@@ -26,7 +27,7 @@ Para obter a edição identificada do estudo:
 ```bash
 git clone https://github.com/murilloed/tokenaholics-reproducible-study.git
 cd tokenaholics-reproducible-study
-git checkout v0.3.0
+git checkout v0.3.1
 python -m venv .venv
 ```
 
@@ -107,7 +108,7 @@ python scripts/build_paper.py
 python scripts/validate_document.py
 ```
 
-O compilador deve estar no PATH; também é possível informar `python scripts/build_paper.py --tectonic CAMINHO_DO_EXECUTAVEL`. O resultado é `paper/Tokenaholics-v0.3.0.pdf`, com intermediários em `paper/build/`. No Overleaf, selecione `main.tex` e use pdfLaTeX com BibTeX. A edição é limitada a 25 páginas incluindo referências. A validação fica em `results/document_validation.json`; somente após inspecionar as páginas renderizadas, use `python scripts/validate_document.py --visual-reviewed` para registrar essa etapa. A CI numérica não compila LaTeX nem substitui inspeção visual.
+O compilador deve estar no PATH; também é possível informar `python scripts/build_paper.py --tectonic CAMINHO_DO_EXECUTAVEL`. O resultado é `paper/Tokenaholics-v0.3.1.pdf`, com intermediários em `paper/build/`. No Overleaf, selecione `main.tex` e use pdfLaTeX com BibTeX. A edição é limitada a 25 páginas incluindo referências. A validação fica em `results/document_validation.json`; somente após inspecionar as páginas renderizadas, use `python scripts/validate_document.py --visual-reviewed` para registrar essa etapa. A CI numérica não compila LaTeX nem substitui inspeção visual.
 
 ## Organização do repositório
 
@@ -127,7 +128,7 @@ runs/                       Metadados locais de execução, ignorados pelo Git
 
 ## Versão, citação, acesso e licenças
 
-Use a tag `v0.3.0` e registre também o commit ao citar esta edição. [CITATION.cff](CITATION.cff) fornece metadados legíveis pelo GitHub. Cite separadamente as bases e os artigos usados; o repositório não substitui suas referências.
+Use a tag `v0.3.1` e registre também o commit ao citar esta edição. [CITATION.cff](CITATION.cff) fornece metadados legíveis pelo GitHub. Cite separadamente as bases e os artigos usados; o repositório não substitui suas referências.
 
 O código original usa MIT. Os dados têm licenças próprias; a licença do código não relicencia o manuscrito nem textos de terceiros. O repositório permanece **privado**, portanto terceiros precisam de acesso autorizado para reproduzir a partir do GitHub. A tag é uma versão identificável, mas não equivale a um depósito com DOI. Ainda não há DOI atribuído ou certificação externa de reprodutibilidade.
 
