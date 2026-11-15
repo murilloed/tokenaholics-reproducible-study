@@ -1,0 +1,32 @@
+[
+  {
+    "path": "data/inputs/aei_2025_enriched.csv",
+    "sha256": "5f0d1402c154027c203adeac0c37ffe9ba6aa179229f5b54d0726c1157157a47",
+    "bytes": 152274
+  },
+  {
+    "path": "data/inputs/aei_2026_api_global.csv",
+    "sha256": "7755f441892c3ba5d17d7b6d1e9f57e19ee9f559e4fee91ce1f1d318c00f11e8",
+    "bytes": 266230
+  },
+  {
+    "path": "data/inputs/aei_2026_chat_global.csv",
+    "sha256": "a97200acae29734cb6db49d6e19197d2a08d97f81adf9bf3950c86e00d282ae7",
+    "bytes": 279713
+  },
+  {
+    "path": "data/inputs/countries_input.csv",
+    "sha256": "06398d5147891806dc0b1f3bb1e29f68a7aab3b5e47b245bb61b3fee8f3fd48c",
+    "bytes": 1090463
+  },
+  {
+    "path": "data/inputs/github_country_table.csv",
+    "sha256": "f36369ee793f1cea8adf530483a76fbe67e81d113571e5238fdabda5e06deb94",
+    "bytes": 233
+  },
+  {
+    "path": "data/inputs/vercel_labs.json",
+    "sha256": "4bdfb0e4994fd3b405980e410507729696461df1e1d014318aa32f30998c93f5",
+    "bytes": 671640
+  }
+]

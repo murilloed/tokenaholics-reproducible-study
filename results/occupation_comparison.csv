@@ -1,0 +1,23 @@
+node_external_id,node_name,pct_chat,collaboration_bucket_automation_pct_chat,pct_api,collaboration_bucket_automation_pct_api,share_ratio_api_chat
+11,Management,5.9,43.9,6.28,95.58,1.0644067796610168
+13,Business and Financial Operations,5.77,42.61,4.63,94.92,0.8024263431542461
+15,Computer and Mathematical,23.8,63.9,28.17,94.58,1.1836134453781513
+17,Architecture and Engineering,3.56,44.89,3.97,91.99,1.1151685393258428
+19,"Life, Physical, and Social Science",4.51,40.46,4.29,93.23,0.951219512195122
+21,Community and Social Service,2.57,40.01,1.03,89.41,0.40077821011673154
+23,Legal,1.02,34.57,0.36,84.7,0.3529411764705882
+25,Educational Instruction and Library,12.79,42.77,6.16,92.28,0.4816262705238468
+27,"Arts, Design, Entertainment, Sports, and Media",13.55,35.85,12.64,94.83,0.9328413284132842
+29,Healthcare Practitioners and Technical,3.31,41.62,0.76,90.32,0.229607250755287
+31,Healthcare Support,0.62,39.08,0.41,93.08,0.6612903225806451
+33,Protective Service,0.33,73.58,1.71,97.36,5.181818181818182
+35,Food Preparation and Serving Related,0.48,49.13,0.36,90.86,0.75
+37,Building and Grounds Cleaning and Maintenance,0.13,47.06,0.07,91.33,0.5384615384615385
+39,Personal Care and Service,1.23,55.87,1.95,95.23,1.5853658536585367
+41,Sales and Related,9.14,43.79,3.72,90.78,0.40700218818380746
+43,Office and Administrative Support,7.89,56.02,11.92,94.41,1.5107731305449936
+45,"Farming, Fishing, and Forestry",0.04,65.07,0.1,99.0,2.5
+47,Construction and Extraction,0.1,66.21,0.08,96.29,0.7999999999999999
+49,"Installation, Maintenance, and Repair",0.62,69.44,1.1,96.41,1.774193548387097
+51,Production,1.04,63.72,1.05,94.11,1.0096153846153846
+53,Transportation and Material Moving,0.34,51.74,0.8,95.66,2.3529411764705883

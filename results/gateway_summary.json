@@ -1,0 +1,79 @@
+{
+  "days": 61,
+  "start": "2026-09-15",
+  "end": "2026-11-14",
+  "leader_selected_from_training": "deepseek",
+  "backtest_horizon_days": 14,
+  "backtest_origins": [
+    28,
+    35,
+    42
+  ],
+  "backtest_windows_overlap": true,
+  "mae_percentage_points": {
+    "seasonal7": 5.042471428571428,
+    "ridge": 5.716790714736212,
+    "drift": 6.468547227599258,
+    "persistence": 8.047290476190474
+  },
+  "selected_model": "seasonal7",
+  "holdout_5d_mae": {
+    "ridge": 1.8926190521505248,
+    "persistence": 0.8757599999999996,
+    "seasonal7": 4.718939999999999,
+    "drift": 1.42170690909091
+  },
+  "backtest_error_p90": 9.018660000000002,
+  "first_forecast": 19.2005,
+  "last_forecast": 22.8042,
+  "means": [
+    {
+      "name": "deepseek",
+      "tokens": 37.644575409836065,
+      "spend": 4.9502852459016395,
+      "requests": 22.43643606557377,
+      "days_observed": 61,
+      "ratio_mean_spend_share_to_mean_token_share": 0.13150062637200555
+    },
+    {
+      "name": "zai",
+      "tokens": 14.597075409836066,
+      "spend": 12.203622950819673,
+      "requests": 10.956660655737705,
+      "days_observed": 61,
+      "ratio_mean_spend_share_to_mean_token_share": 0.8360320549276883
+    },
+    {
+      "name": "openai",
+      "tokens": 11.772622950819672,
+      "spend": 16.997060655737705,
+      "requests": 25.265775409836063,
+      "days_observed": 61,
+      "ratio_mean_spend_share_to_mean_token_share": 1.443778563769791
+    },
+    {
+      "name": "anthropic",
+      "tokens": 11.575544262295082,
+      "spend": 39.3044868852459,
+      "requests": 11.474834426229508,
+      "days_observed": 61,
+      "ratio_mean_spend_share_to_mean_token_share": 3.3954763590056025
+    },
+    {
+      "name": "google",
+      "tokens": 4.20807868852459,
+      "spend": 8.532160655737705,
+      "requests": 16.71742295081967,
+      "days_observed": 61,
+      "ratio_mean_spend_share_to_mean_token_share": 2.0275668035877907
+    },
+    {
+      "name": "moonshotai",
+      "tokens": 3.3413918032786887,
+      "spend": 10.119783606557377,
+      "requests": 2.532104918032787,
+      "days_observed": 61,
+      "ratio_mean_spend_share_to_mean_token_share": 3.0286132852266823
+    }
+  ]
+}

@@ -1,0 +1,1353 @@
+geo_id,geography,date_start,date_end,platform_and_product,facet,level,variable,cluster_name,value,geo_name
+ABW,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,55553.99364615255,Aruba
+ABW,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,Aruba
+ABW,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,Aruba
+ABW,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,Aruba
+ABW,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,Aruba
+ABW,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,71138.0,Aruba
+ABW,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,Aruba
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,5796.591076911293,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,20002446.0,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,238.0,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.024676151432772,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,1.1898544807969983e-05,Angola
+AGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0456122704656556,Angola
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,15160.177657549832,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,1798066.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,370.0,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0383620841601917,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0002057766511351,Albania
+ALB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.7888309384528269,Albania
+AND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,68285.58866303651,Andorra
+AND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,59134.0,Andorra
+AND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Andorra
+AND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,40.0,Andorra
+AND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0041472523416423,Andorra
+AND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0006764298034971,Andorra
+AND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,2.5930481118561155,Andorra
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,60127.05878296327,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,8932401.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,3011.0,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.3121844200171281,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0003370874191608,United Arab Emirates
+ARE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.2922019273345715,United Arab Emirates
+ARG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,20966.42327535169,Argentina
+ARG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,30150350.0,Argentina
+ARG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Argentina
+ARG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,6168.0,Argentina
+ARG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.6395063110812509,Argentina
+ARG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0002045747395967,Argentina
+ARG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.7842234914875027,Argentina
+ARM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,12551.43122594346,Armenia
+ARM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,2034270.0,Armenia
+ARM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Armenia
+ARM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,818.0,Armenia
+ARM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0848113103865861,Armenia
+ARM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0004021098477586,Armenia
+ARM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.5414610298047535,Armenia
+ASM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,American Samoa
+ASM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,American Samoa
+ASM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,American Samoa
+ASM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,American Samoa
+ASM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,30373.0,American Samoa
+ASM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,American Samoa
+ATG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,33696.80448281085,Antigua and Barbuda
+ATG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,Antigua and Barbuda
+ATG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,Antigua and Barbuda
+ATG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,Antigua and Barbuda
+ATG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,Antigua and Barbuda
+ATG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,66030.0,Antigua and Barbuda
+ATG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,Antigua and Barbuda
+AUS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,102513.1805350331,Australia
+AUS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,17527551.0,Australia
+AUS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Australia
+AUS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,18753.0,Australia
+AUS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,1.9443355790704764,Australia
+AUS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0010699155860393,Australia
+AUS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,4.101449368258871,Australia
+AUT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,87151.06570374031,Austria
+AUT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,5981212.0,Austria
+AUT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Austria
+AUT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,2600.0,Austria
+AUT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.2695714022067529,Austria
+AUT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.000434694506732,Austria
+AUT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.6663721262550917,Austria
+AZE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,10460.39769104414,Azerbaijan
+AZE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,7104510.0,Azerbaijan
+AZE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Azerbaijan
+AZE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,484.0,Azerbaijan
+AZE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0501817533338724,Azerbaijan
+AZE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,6.81257398469423e-05,Azerbaijan
+AZE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.2611554372170135,Azerbaijan
+BDI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,639.8290120031005,Burundi
+BDI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,7412918.0,Burundi
+BDI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Burundi
+BDI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,59.0,Burundi
+BDI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0061171972039224,Burundi
+BDI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,7.959079002357776e-06,Burundi
+BDI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.030510593519797,Burundi
+BEL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,88245.97318402125,Belgium
+BEL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,7535358.0,Belgium
+BEL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Belgium
+BEL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,3659.0,Belgium
+BEL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.3793699079517342,Belgium
+BEL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0004855774602878,Belgium
+BEL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.861428503075573,Belgium
+BEN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,2655.416999442524,Benin
+BEN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,8002133.0,Benin
+BEN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Benin
+BEN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,527.0,Benin
+BEN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.054640049601138,Benin
+BEN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,6.585744075985741e-05,Benin
+BEN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.2524600653772727,Benin
+BFA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,1832.887591889975,Burkina Faso
+BFA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,13080453.0,Burkina Faso
+BFA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Burkina Faso
+BFA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,273.0,Burkina Faso
+BFA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.028304997231709,Burkina Faso
+BFA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,2.087083681276176e-05,Burkina Faso
+BFA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0800069478168959,Burkina Faso
+BGD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,3967.2406267898255,Bangladesh
+BGD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,113705228.0,Bangladesh
+BGD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Bangladesh
+BGD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,3318.0,Bangladesh
+BGD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.3440145817392332,Bangladesh
+BGD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,2.918071629916612e-05,Bangladesh
+BGD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.1118623113750507,Bangladesh
+BGR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,27428.093267052194,Bulgaria
+BGR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,4091863.0,Bulgaria
+BGR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Bulgaria
+BGR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,1558.0,Bulgaria
+BGR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.1615354787069696,Bulgaria
+BGR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0003807556606856,Bulgaria
+BGR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.4596011913060525,Bulgaria
+BHR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,38161.78293722893,Bahrain
+BHR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,1230105.0,Bahrain
+BHR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Bahrain
+BHR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,228.0,Bahrain
+BHR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0236393383473614,Bahrain
+BHR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0001853500310949,Bahrain
+BHR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.7105268657269481,Bahrain
+BHS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,52316.51473694657,Bahamas
+BHS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,282148.0,Bahamas
+BHS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Bahamas
+BHS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,46.0,Bahamas
+BHS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0047693401928887,Bahamas
+BHS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0001630350029062,Bahamas
+BHS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.6249837074991653,Bahamas
+BIH,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,14058.115992760766,Bosnia and Herzegovina
+BIH,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,2048283.0,Bosnia and Herzegovina
+BIH,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Bosnia and Herzegovina
+BIH,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,360.0,Bosnia and Herzegovina
+BIH,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0373252710747811,Bosnia and Herzegovina
+BIH,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0001757569632711,Bosnia and Herzegovina
+BIH,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.6737524860668648,Bosnia and Herzegovina
+BLZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,12013.264719491846,Belize
+BLZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,285268.0,Belize
+BLZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Belize
+BLZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,38.0,Belize
+BLZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0039398897245602,Belize
+BLZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0001332080710069,Belize
+BLZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.5106441721264725,Belize
+BMU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,41787.0,Bermuda
+BMU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Bermuda
+BMU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,29.0,Bermuda
+BMU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0030067579476907,Bermuda
+BMU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.000693995740302,Bermuda
+BMU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,2.660385947991293,Bermuda
+BOL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,6038.784004183883,Bolivia
+BOL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,8015521.0,Bolivia
+BOL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Bolivia
+BOL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,1012.0,Bolivia
+BOL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.1049254842435515,Bolivia
+BOL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0001262550494222,Bolivia
+BOL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.4839902319857235,Bolivia
+BRA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,14782.600419414845,Brazil
+BRA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,146884644.0,Brazil
+BRA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Brazil
+BRA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,35482.0,Brazil
+BRA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,3.6788201896538495,Brazil
+BRA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0002415637130863,Brazil
+BRA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.9260182311201804,Brazil
+BRB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,38322.71932498115,Barbados
+BRB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,187017.0,Barbados
+BRB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Barbados
+BRB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,63.0,Barbados
+BRB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0065319224380867,Barbados
+BRB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.000336867771379,Barbados
+BRB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.2913599223505714,Barbados
+BRN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,46216.28972529656,Brunei
+BRN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,334579.0,Brunei
+BRN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Brunei
+BRN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,61.0,Brunei
+BRN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0063245598210045,Brunei
+BRN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0001823186751111,Brunei
+BRN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.6989063666455809,Brunei
+BTN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,5380.966137503524,Bhutan
+BTN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,574618.0,Bhutan
+BTN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Bhutan
+BTN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,60.0,Bhutan
+BTN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0062208785124635,Bhutan
+BTN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0001044171954237,Bhutan
+BTN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.4002762888906183,Bhutan
+BWA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,12027.171116893962,Botswana
+BWA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,1609356.0,Botswana
+BWA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Botswana
+BWA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,104.0,Botswana
+BWA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0107828560882701,Botswana
+BWA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,6.462212214078177e-05,Botswana
+BWA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.2477245546174363,Botswana
+CAN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,83397.40614599641,Canada
+CAN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,26874373.0,Canada
+CAN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Canada
+CAN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,20426.0,Canada
+CAN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,2.117794408259668,Canada
+CAN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0007600549415608,Canada
+CAN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,2.9136194486582068,Canada
+CHE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,159447.77850270874,Switzerland
+CHE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,5874889.0,Switzerland
+CHE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Switzerland
+CHE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,4311.0,Switzerland
+CHE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.4469701211205046,Switzerland
+CHE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0007338010981994,Switzerland
+CHE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,2.8129771076417764,Switzerland
+CHL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,24248.62384782136,Chile
+CHL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,13617680.0,Chile
+CHL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Chile
+CHL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,4115.0,Chile
+CHL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.426648584646457,Chile
+CHL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0003021806945089,Chile
+CHL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.158389348435904,Chile
+CIV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,4825.4978829441125,Ivory Coast
+CIV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,18049122.0,Ivory Coast
+CIV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Ivory Coast
+CIV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,939.0,Ivory Coast
+CIV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0973567487200542,Ivory Coast
+CIV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,5.202469128415222e-05,Ivory Coast
+CIV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.1994331515359349,Ivory Coast
+CMR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,3250.193069497753,Cameroon
+CMR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,16240266.0,Cameroon
+CMR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Cameroon
+CMR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,937.0,Cameroon
+CMR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0971493861029721,Cameroon
+CMR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,5.769609931265904e-05,Cameroon
+CMR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.2211741123922632,Cameroon
+COG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,4157.189959547441,Republic of the Congo
+COG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,3582468.0,Republic of the Congo
+COG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Republic of the Congo
+COG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,120.0,Republic of the Congo
+COG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.012441757024927,Republic of the Congo
+COG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,3.34964610988849e-05,Republic of the Congo
+COG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.128406428512271,Republic of the Congo
+COL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,11313.865939573909,Colombia
+COL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,36993721.0,Colombia
+COL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Colombia
+COL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,7948.0,Colombia
+COL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.8240590402843356,Colombia
+COL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0002148472709733,Colombia
+COL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.8236025489336274,Colombia
+COM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,2876.526673067729,Comoros
+COM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,Comoros
+COM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,Comoros
+COM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,Comoros
+COM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,Comoros
+COM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,506166.0,Comoros
+COM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,Comoros
+CPV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,7683.461672886343,Cabo Verde
+CPV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,354788.0,Cabo Verde
+CPV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Cabo Verde
+CPV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,40.0,Cabo Verde
+CPV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0041472523416423,Cabo Verde
+CPV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0001127433847818,Cabo Verde
+CPV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.4321941752440881,Cabo Verde
+CRI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,26951.561234857145,Costa Rica
+CRI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,3538385.0,Costa Rica
+CRI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Costa Rica
+CRI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,1211.0,Costa Rica
+CRI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.1255580646432222,Costa Rica
+CRI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0003422465333761,Costa Rica
+CRI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.3119790443472863,Costa Rica
+CUW,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,106465.0,Curacao
+CUW,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Curacao
+CUW,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,29.0,Curacao
+CUW,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0030067579476907,Curacao
+CUW,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0002723899873197,Curacao
+CUW,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.044188678051117,Curacao
+CYM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,55705.0,Cayman Islands
+CYM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Cayman Islands
+CYM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,35.0,Cayman Islands
+CYM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.003628845798937,Cayman Islands
+CYM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0006283098465128,Cayman Islands
+CYM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,2.4085834963771133,Cayman Islands
+CYP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,38404.71104586875,Cyprus
+CYP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,941447.0,Cyprus
+CYP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Cyprus
+CYP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,587.0,Cyprus
+CYP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0608609281136015,Cyprus
+CYP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0006235082803386,Cyprus
+CYP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,2.39017701570814,Cyprus
+CZE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,49714.93948841886,Czechia
+CZE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,6938176.0,Czechia
+CZE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Czechia
+CZE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,3097.0,Czechia
+CZE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.3211010125516592,Czechia
+CZE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0004463709193886,Czechia
+CZE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.711132868072996,Czechia
+DEU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,88693.9787891109,Germany
+DEU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,52523588.0,Germany
+DEU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Germany
+DEU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,25143.0,Germany
+DEU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,2.6068591406478423,Germany
+DEU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0004786992084394,Germany
+DEU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.8350611876849208,Germany
+DJI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,5520.591664256729,Djibouti
+DJI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,771113.0,Djibouti
+DJI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Djibouti
+DJI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,21.0,Djibouti
+DJI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0021773074793622,Djibouti
+DJI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,2.7233362684846448e-05,Djibouti
+DJI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.1043972623978745,Djibouti
+DMA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,15220.33454164301,Dominica
+DMA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,45794.0,Dominica
+DMA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Dominica
+DMA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,17.0,Dominica
+DMA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.001762582245198,Dominica
+DMA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0003712276717473,Dominica
+DMA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.423076287172169,Dominica
+DNK,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,113263.93711245504,Denmark
+DNK,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,3791657.0,Denmark
+DNK,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Denmark
+DNK,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,2282.0,Denmark
+DNK,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.2366007460906962,Denmark
+DNK,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.000601847688227,Denmark
+DNK,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,2.3071425941225168,Denmark
+DOM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,16637.61618246597,Dominican Republic
+DOM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,7489835.0,Dominican Republic
+DOM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Dominican Republic
+DOM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,1131.0,Dominican Republic
+DOM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.1172635599599375,Dominican Republic
+DOM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0001510046616514,Dominican Republic
+DOM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.5788662042274328,Dominican Republic
+DZA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,8969.58842511948,Algeria
+DZA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,29534577.0,Algeria
+DZA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Algeria
+DZA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,1958.0,Algeria
+DZA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.2030080021233931,Algeria
+DZA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,6.629517666699611e-05,Algeria
+DZA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.2541380965072279,Algeria
+ECU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,9988.291688510177,Ecuador
+ECU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,12187069.0,Ecuador
+ECU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Ecuador
+ECU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,3042.0,Ecuador
+ECU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.315398540581901,Ecuador
+ECU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0002496088271921,Ecuador
+ECU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.956858634417044,Ecuador
+EGY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,5227.316547705825,Egypt
+EGY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,73289803.0,Egypt
+EGY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Egypt
+EGY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,5376.0,Egypt
+EGY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.5573907147167323,Egypt
+EGY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,7.335263269843965e-05,Egypt
+EGY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.2811923790687435,Egypt
+ESP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,53518.68827011927,Spain
+ESP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,32179918.0,Spain
+ESP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Spain
+ESP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,10582.0,Spain
+ESP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,1.0971556069814845,Spain
+ESP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0003288386253812,Spain
+ESP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.2605807317206792,Spain
+EST,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,49410.33974231546,Estonia
+EST,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,865244.0,Estonia
+EST,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Estonia
+EST,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,701.0,Estonia
+EST,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0726805972872822,Estonia
+EST,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0008101760890569,Estonia
+EST,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,3.10575549323648,Estonia
+FIN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,86239.00920358354,Finland
+FIN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,3465172.0,Finland
+FIN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Finland
+FIN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,1708.0,Finland
+FIN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.1770876749881285,Finland
+FIN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0004929048255036,Finland
+FIN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.8895174643237131,Finland
+FJI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,9643.44070961718,Fiji
+FJI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,616896.0,Fiji
+FJI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Fiji
+FJI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,59.0,Fiji
+FJI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0061171972039224,Fiji
+FJI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,9.564010789500986e-05,Fiji
+FJI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.3666299147564368,Fiji
+FRA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,75225.64794338809,France
+FRA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,42033842.0,France
+FRA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,France
+FRA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,21314.0,France
+FRA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,2.209863410244128,France
+FRA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0005070676147091,France
+FRA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.9438095632497088,France
+FRO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,Faroe Islands
+FRO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,Faroe Islands
+FRO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,Faroe Islands
+FRO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,Faroe Islands
+FRO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,34088.0,Faroe Islands
+FRO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,Faroe Islands
+FSM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,6691.48150252884,Micronesia
+FSM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,Micronesia
+FSM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,Micronesia
+FSM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,Micronesia
+FSM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,Micronesia
+FSM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,70388.0,Micronesia
+FSM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,Micronesia
+GAB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,13766.979263379795,Gabon
+GAB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,1508973.0,Gabon
+GAB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Gabon
+GAB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,115.0,Gabon
+GAB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0119233504822217,Gabon
+GAB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,7.621077381768925e-05,Gabon
+GAB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.2921488706283586,Gabon
+GBR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,83152.8295627269,United Kingdom
+GBR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,43830571.0,United Kingdom
+GBR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,United Kingdom
+GBR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,30474.0,United Kingdom
+GBR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,3.159584196480228,United Kingdom
+GBR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0006952681497122,United Kingdom
+GBR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,2.665263643801849,United Kingdom
+GEO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,14463.249642754525,Georgia
+GEO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,2335229.0,Georgia
+GEO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Georgia
+GEO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,1335.0,Georgia
+GEO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.1384145469023135,Georgia
+GEO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0005716784092694,Georgia
+GEO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,2.191490694350285,Georgia
+GGY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,16.0,Guernsey
+GGY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0016589009366569,Guernsey
+GHA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,3978.246329458356,Ghana
+GHA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,20819475.0,Ghana
+GHA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Ghana
+GHA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,1892.0,Ghana
+GHA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.1961650357596833,Ghana
+GHA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,9.087645101521532e-05,Ghana
+GHA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.3483687568154062,Ghana
+GIB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,Gibraltar
+GIB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,Gibraltar
+GIB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,Gibraltar
+GIB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,Gibraltar
+GIB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,25461.0,Gibraltar
+GIB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,Gibraltar
+GIN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,3137.3506232314494,Guinea
+GIN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,8210112.0,Guinea
+GIN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Guinea
+GIN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,77.0,Guinea
+GIN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0079834607576615,Guinea
+GIN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,9.37867839074546e-06,Guinea
+GIN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0359525322023026,Guinea
+GLP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,44.0,Guadeloupe
+GLP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0045619775758065,Guadeloupe
+GMB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,1635.3522496322375,Gambia
+GMB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,1564189.0,Gambia
+GMB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Gambia
+GMB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,48.0,Gambia
+GMB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0049767028099708,Gambia
+GMB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,3.068682876557756e-05,Gambia
+GMB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.117635892117768,Gambia
+GNB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,1709.8915346276524,Guinea-Bissau
+GNB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,Guinea-Bissau
+GNB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,Guinea-Bissau
+GNB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,Guinea-Bissau
+GNB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,Guinea-Bissau
+GNB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,1277274.0,Guinea-Bissau
+GNB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,Guinea-Bissau
+GNQ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,11229.18585716984,Equatorial Guinea
+GNQ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,Equatorial Guinea
+GNQ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,Equatorial Guinea
+GNQ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,Equatorial Guinea
+GNQ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,Equatorial Guinea
+GNQ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,1117089.0,Equatorial Guinea
+GNQ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,Equatorial Guinea
+GRC,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,39376.65689246587,Greece
+GRC,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,6528411.0,Greece
+GRC,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Greece
+GRC,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,2188.0,Greece
+GRC,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.2268547030878367,Greece
+GRC,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0003351504677018,Greece
+GRC,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.28477675431947,Greece
+GRD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,17383.70277864502,Grenada
+GRD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,80075.0,Grenada
+GRD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Grenada
+GRD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,16.0,Grenada
+GRD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0016589009366569,Grenada
+GRD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0001998126756166,Grenada
+GRD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.7659684398201663,Grenada
+GRL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,Greenland
+GRL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,Greenland
+GRL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,Greenland
+GRL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,Greenland
+GRL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,38869.0,Greenland
+GRL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,Greenland
+GTM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,9620.500626667832,Guatemala
+GTM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,11701574.0,Guatemala
+GTM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Guatemala
+GTM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,1116.0,Guatemala
+GTM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.1157083403318216,Guatemala
+GTM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,9.53717850265272e-05,Guatemala
+GTM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.3656013171046337,Guatemala
+GUF,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,16.0,French Guiana
+GUF,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0016589009366569,French Guiana
+GUM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,103040.0,Guam
+GUM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Guam
+GUM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,28.0,Guam
+GUM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0029030766391496,Guam
+GUM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0002717391304347,Guam
+GUM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.0416936620006765,Guam
+GUY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,46285.03427408759,Guyana
+GUY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,532764.0,Guyana
+GUY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Guyana
+GUY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,31.0,Guyana
+GUY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0032141205647728,Guyana
+GUY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,5.8187114744990274e-05,Guyana
+GUY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.2230563869950619,Guyana
+HND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,5256.315221358912,Honduras
+HND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,7032493.0,Honduras
+HND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Honduras
+HND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,433.0,Honduras
+HND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0448940065982784,Honduras
+HND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,6.157133750435301e-05,Honduras
+HND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.2360295771042157,Honduras
+HRV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,38045.172524694855,Croatia
+HRV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,2431478.0,Croatia
+HRV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Croatia
+HRV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,900.0,Croatia
+HRV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0933131776869529,Croatia
+HRV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0003701452367654,Croatia
+HRV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.4189268455426038,Croatia
+HTI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,3475.4520114928823,Haiti
+HTI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,7546932.0,Haiti
+HTI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Haiti
+HTI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,135.0,Haiti
+HTI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0139969766530429,Haiti
+HTI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,1.7888063652885702e-05,Haiti
+HTI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0685726877202465,Haiti
+HUN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,36106.86245674615,Hungary
+HUN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,6177773.0,Hungary
+HUN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Hungary
+HUN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,1524.0,Hungary
+HUN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.1580103142165736,Hungary
+HUN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.000246690838268,Hungary
+HUN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.9456727203268284,Hungary
+IDN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,7231.199089520412,Indonesia
+IDN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,193093840.0,Indonesia
+IDN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Indonesia
+IDN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,18030.0,Indonesia
+IDN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,1.8693739929952908,Indonesia
+IDN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,9.337428889497458e-05,Indonesia
+IDN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.3579440501634318,Indonesia
+IMN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,52704.0,Isle of Man
+IMN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Isle of Man
+IMN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,42.0,Isle of Man
+IMN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0043546149587244,Isle of Man
+IMN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0007969034608378,Isle of Man
+IMN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,3.054875766522931,Isle of Man
+IND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,3948.7128605939074,India
+IND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,989967399.0,India
+IND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,India
+IND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,68964.0,India
+IND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,7.150277762225582,India
+IND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,6.96629000810157e-05,India
+IND,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.267048037486808,India
+IRL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,163661.46945325768,Ireland
+IRL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,3526890.0,Ireland
+IRL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Ireland
+IRL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,2077.0,Ireland
+IRL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.2153460778397792,Ireland
+IRL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0005889041053165,Ireland
+IRL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,2.257524240446821,Ireland
+IRQ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,10043.662811380043,Iraq
+IRQ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,27627172.0,Iraq
+IRQ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Iraq
+IRQ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,2840.0,Iraq
+IRQ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.2944549162566071,Iraq
+IRQ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0001027973474809,Iraq
+IRQ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.3940667108563072,Iraq
+ISL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,124196.00871446758,Iceland
+ISL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,269437.0,Iceland
+ISL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Iceland
+ISL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,199.0,Iceland
+ISL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0206325803996707,Iceland
+ISL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0007385771070788,Iceland
+ISL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,2.8312856161415665,Iceland
+ISR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,90237.43265143564,Israel
+ISR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,5988435.0,Israel
+ISR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Israel
+ISR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,10941.0,Israel
+ISR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,1.1343771967477247,Israel
+ISR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0018270215841033,Israel
+ISR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,7.00376424055597,Israel
+ITA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,63346.04219526605,Italy
+ITA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,37446049.0,Italy
+ITA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Italy
+ITA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,14383.0,Italy
+ITA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,1.491248260746049,Italy
+ITA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0003840992677224,Italy
+ITA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.4724186837774282,Italy
+JAM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,9671.355122194287,Jamaica
+JAM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,2075097.0,Jamaica
+JAM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Jamaica
+JAM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,310.0,Jamaica
+JAM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0321412056477282,Jamaica
+JAM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0001493906068005,Jamaica
+JAM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.5726788336209688,Jamaica
+JEY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,31.0,Jersey
+JEY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0032141205647728,Jersey
+JOR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,7135.879551781071,Jordan
+JOR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,7487234.0,Jordan
+JOR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Jordan
+JOR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,893.0,Jordan
+JOR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0925874085271655,Jordan
+JOR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0001192696795639,Jordan
+JOR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.4572122869157157,Jordan
+JPN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,55246.96466016575,Japan
+JPN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,72876601.0,Japan
+JPN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Japan
+JPN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,35298.0,Japan
+JPN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,3.6597428288822944,Japan
+JPN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.000484352995552,Japan
+JPN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.8567345999463327,Japan
+KAZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,22317.150362946555,Kazakhstan
+KAZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,12761934.0,Kazakhstan
+KAZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Kazakhstan
+KAZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,1371.0,Kazakhstan
+KAZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.1421470740097916,Kazakhstan
+KAZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0001074288583532,Kazakhstan
+KAZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.4118212959743227,Kazakhstan
+KEN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,3558.849073408154,Kenya
+KEN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,33971376.0,Kenya
+KEN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Kenya
+KEN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,4065.0,Kenya
+KEN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.4214645192194041,Kenya
+KEN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0001196595628036,Kenya
+KEN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.458706878067009,Kenya
+KGZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,3906.36602991404,Kyrgyzstan
+KGZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,4477563.0,Kyrgyzstan
+KGZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Kyrgyzstan
+KGZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,276.0,Kyrgyzstan
+KGZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0286160411573322,Kyrgyzstan
+KGZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,6.164067373256389e-05,Kyrgyzstan
+KGZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.2362953728670812,Kyrgyzstan
+KHM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,4189.637022057561,Cambodia
+KHM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,11296444.0,Cambodia
+KHM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Cambodia
+KHM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,733.0,Cambodia
+KHM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0759983991605961,Cambodia
+KHM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,6.488767615720487e-05,Cambodia
+KHM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.2487425380612787,Cambodia
+KIR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,3749.284836090519,Kiribati
+KIR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,Kiribati
+KIR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,Kiribati
+KIR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,Kiribati
+KIR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,Kiribati
+KIR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,82149.0,Kiribati
+KIR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,Kiribati
+KNA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,33782.966368255504,Saint Kitts and Nevis
+KNA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,Saint Kitts and Nevis
+KNA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,Saint Kitts and Nevis
+KNA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,Saint Kitts and Nevis
+KNA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,Saint Kitts and Nevis
+KNA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,33064.0,Saint Kitts and Nevis
+KNA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,Saint Kitts and Nevis
+KOR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,51496.35067757943,South Korea
+KOR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,36307699.0,South Korea
+KOR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,South Korea
+KOR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,35285.0,South Korea
+KOR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,3.6583949718712607,South Korea
+KOR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0009718324479885,South Korea
+KOR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,3.725454261874139,South Korea
+KWT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,40520.77402630855,Kuwait
+KWT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,3913252.0,Kuwait
+KWT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Kuwait
+KWT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,344.0,Kuwait
+KWT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0356663701381242,Kuwait
+KWT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,8.790642667530739e-05,Kuwait
+KWT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.3369833684618052,Kuwait
+LAO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,3137.563145458921,Laos
+LAO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,5060934.0,Laos
+LAO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Laos
+LAO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,381.0,Laos
+LAO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0395025785541434,Laos
+LAO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,7.528254666035953e-05,Laos
+LAO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.2885905743125494,Laos
+LBN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,7649.559298285476,Lebanon
+LBN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,3696945.0,Lebanon
+LBN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Lebanon
+LBN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,698.0,Lebanon
+LBN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.072369553361659,Lebanon
+LBN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0001888045399647,Lebanon
+LBN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.7237694929087171,Lebanon
+LBR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,1501.5941581816312,Liberia
+LBR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,3208590.0,Liberia
+LBR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Liberia
+LBR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,36.0,Liberia
+LBR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0037325271074781,Liberia
+LBR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,1.12198816302488e-05,Liberia
+LBR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.043010660864071,Liberia
+LCA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,19268.8086637085,Saint Lucia
+LCA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,130937.0,Saint Lucia
+LCA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Saint Lucia
+LCA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,40.0,Saint Lucia
+LCA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0041472523416423,Saint Lucia
+LCA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0003054904266937,Saint Lucia
+LCA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.1710769839426558,Saint Lucia
+LIE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,26133.0,Liechtenstein
+LIE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Liechtenstein
+LIE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,21.0,Liechtenstein
+LIE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0021773074793622,Liechtenstein
+LIE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0008035816783377,Liechtenstein
+LIE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,3.080476263705364,Liechtenstein
+LKA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,6855.768591970304,Sri Lanka
+LKA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,14435143.0,Sri Lanka
+LKA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Sri Lanka
+LKA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,3795.0,Sri Lanka
+LKA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.3934705659133183,Sri Lanka
+LKA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.000262900062715,Sri Lanka
+LKA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.00780969097685,Sri Lanka
+LSO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,1603.0035663184583,Lesotho
+LSO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,1440421.0,Lesotho
+LSO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Lesotho
+LSO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,55.0,Lesotho
+LSO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0057024719697582,Lesotho
+LSO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,3.818328113794509e-05,Lesotho
+LSO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.1463730375972975,Lesotho
+LTU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,45109.332193465,Lithuania
+LTU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,1880919.0,Lithuania
+LTU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Lithuania
+LTU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,1045.0,Lithuania
+LTU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.1083469674254064,Lithuania
+LTU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0005555794800307,Lithuania
+LTU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,2.129776532955327,Lithuania
+LUX,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,199973.81446042765,Luxembourg
+LUX,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,465906.0,Luxembourg
+LUX,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Luxembourg
+LUX,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,333.0,Luxembourg
+LUX,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0345258757441725,Luxembourg
+LUX,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0007147364489832,Luxembourg
+LUX,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,2.7398940583768154,Luxembourg
+LVA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,37168.53471842537,Latvia
+LVA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,1170560.0,Latvia
+LVA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Latvia
+LVA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,645.0,Latvia
+LVA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0668744440089829,Latvia
+LVA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0005510183160196,Latvia
+LVA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,2.112291617793881,Latvia
+MAF,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,Saint Martin
+MAF,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,Saint Martin
+MAF,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,Saint Martin
+MAF,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,Saint Martin
+MAF,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,15745.0,Saint Martin
+MAF,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,Saint Martin
+MAR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,6159.655576326082,Morocco
+MAR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,25220566.0,Morocco
+MAR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Morocco
+MAR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,4845.0,Morocco
+MAR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.5023359398814301,Morocco
+MAR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0001921051256343,Morocco
+MAR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.7364220658651062,Morocco
+MCO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,19455.0,Monaco
+MCO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Monaco
+MCO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,25.0,Monaco
+MCO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0025920327135264,Monaco
+MCO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0012850167052171,Monaco
+MCO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,4.926025027194152,Monaco
+MDA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,11853.79921916384,Moldova
+MDA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,1529130.0,Moldova
+MDA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Moldova
+MDA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,493.0,Moldova
+MDA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.051114885110742,Moldova
+MDA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0003224055508687,Moldova
+MDA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.2359199736766049,Moldova
+MDG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,950.4549962287342,Madagascar
+MDG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,18328064.0,Madagascar
+MDG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Madagascar
+MDG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,583.0,Madagascar
+MDG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0604462028794373,Madagascar
+MDG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,3.180914252590999e-05,Madagascar
+MDG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.1219382063595331,Madagascar
+MDV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,17551.84408141015,Maldives
+MDV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,399901.0,Maldives
+MDV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Maldives
+MDV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,159.0,Maldives
+MDV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0164853280580283,Maldives
+MDV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0003975984056053,Maldives
+MDV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.5241667200377986,Maldives
+MEX,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,21055.23141283793,Mexico
+MEX,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,87993476.0,Mexico
+MEX,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Mexico
+MEX,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,9172.0,Mexico
+MEX,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.9509649619385916,Mexico
+MEX,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0001042350003311,Mexico
+MEX,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.3995778562692801,Mexico
+MHL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,12247.933161279034,Marshall Islands
+MHL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,Marshall Islands
+MHL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,Marshall Islands
+MHL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,Marshall Islands
+MHL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,Marshall Islands
+MHL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,22861.0,Marshall Islands
+MHL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,Marshall Islands
+MKD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,14284.258368739234,North Macedonia
+MKD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,1167649.0,North Macedonia
+MKD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,North Macedonia
+MKD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,330.0,North Macedonia
+MKD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0342148318185494,North Macedonia
+MKD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0002826191775096,North Macedonia
+MKD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.0834015899757727,North Macedonia
+MLT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,63416.5934217836,Malta
+MLT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,383417.0,Malta
+MLT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Malta
+MLT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,283.0,Malta
+MLT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0293418103171196,Malta
+MLT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0007380997712673,Malta
+MLT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,2.8294557814441834,Malta
+MNE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,20082.201107362056,Montenegro
+MNE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,399508.0,Montenegro
+MNE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Montenegro
+MNE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,222.0,Montenegro
+MNE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.023017250496115,Montenegro
+MNE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0005556834906935,Montenegro
+MNE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,2.1301752508287004,Montenegro
+MNG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,10677.466362993113,Mongolia
+MNG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,2208951.0,Mongolia
+MNG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Mongolia
+MNG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,178.0,Mongolia
+MNG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0184552729203084,Mongolia
+MNG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,8.058123516546995e-05,Mongolia
+MNG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.3089027399688463,Mongolia
+MNP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,Northern Mariana Islands
+MNP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,Northern Mariana Islands
+MNP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,Northern Mariana Islands
+MNP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,Northern Mariana Islands
+MNP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,30218.0,Northern Mariana Islands
+MNP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,Northern Mariana Islands
+MOZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,1200.8185090654026,Mozambique
+MOZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,18274202.0,Mozambique
+MOZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Mozambique
+MOZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,453.0,Mozambique
+MOZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0469676327690996,Mozambique
+MOZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,2.478904413993016e-05,Mozambique
+MOZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0950271318168425,Mozambique
+MRT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,3827.747429501387,Mauritania
+MRT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,2794594.0,Mauritania
+MRT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Mauritania
+MRT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,67.0,Mauritania
+MRT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0069466476722509,Mauritania
+MRT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,2.3974860033335792e-05,Mauritania
+MRT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0919060118582115,Mauritania
+MTQ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,56.0,Martinique
+MTQ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0058061532782992,Martinique
+MUS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,16566.49364893835,Mauritius
+MUS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,902605.0,Mauritius
+MUS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Mauritius
+MUS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,312.0,Mauritius
+MUS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0323485682648103,Mauritius
+MUS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0003456661551841,Mauritius
+MUS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.3250879343264177,Mauritius
+MWI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,960.6402944020084,Malawi
+MWI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,12280351.0,Malawi
+MWI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Malawi
+MWI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,194.0,Malawi
+MWI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0201141738569654,Malawi
+MWI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,1.5797594058997172e-05,Malawi
+MWI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0605590132705101,Malawi
+MYS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,16744.801251132354,Malaysia
+MYS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,25059539.0,Malaysia
+MYS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Malaysia
+MYS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,4881.0,Malaysia
+MYS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.5060684669889082,Malaysia
+MYS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0001947761289623,Malaysia
+MYS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.7466611773005524,Malaysia
+NAM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,7434.795398545627,Namibia
+NAM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,1798301.0,Namibia
+NAM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Namibia
+NAM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,179.0,Namibia
+NAM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0185589542288495,Namibia
+NAM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,9.953839763198708e-05,Namibia
+NAM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.3815737460153141,Namibia
+NCL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,196852.0,New Caledonia
+NCL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,New Caledonia
+NCL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,47.0,New Caledonia
+NCL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0048730215014297,New Caledonia
+NCL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0002387580517342,New Caledonia
+NCL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.9152629172151514,New Caledonia
+NER,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,1446.5138295852926,Niger
+NER,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,13733709.0,Niger
+NER,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Niger
+NER,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,71.0,Niger
+NER,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0073613729064151,Niger
+NER,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,5.169761497058078e-06,Niger
+NER,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0198179326507891,Niger
+NGA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,1441.664986299227,Nigeria
+NGA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,130155065.0,Nigeria
+NGA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Nigeria
+NGA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,6855.0,Nigeria
+NGA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.7107353700489584,Nigeria
+NGA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,5.266794649904712e-05,Nigeria
+NGA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.2018990270958249,Nigeria
+NLD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,105769.21585185928,The Netherlands
+NLD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,11602374.0,The Netherlands
+NLD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,The Netherlands
+NLD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,7752.0,The Netherlands
+NLD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.8037375038102881,The Netherlands
+NLD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0006681391239413,The Netherlands
+NLD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,2.561266349939384,The Netherlands
+NOR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,133499.89761071428,Norway
+NOR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,3623426.0,Norway
+NOR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Norway
+NOR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,2136.0,Norway
+NOR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.2214632750437016,Norway
+NOR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0005894973431222,Norway
+NOR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,2.2597983776357173,Norway
+NPL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,2250.486467692543,Nepal
+NPL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,19293162.0,Nepal
+NPL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Nepal
+NPL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,2123.0,Nepal
+NPL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.2201154180326679,Nepal
+NPL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.00011003898687,Nepal
+NPL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.4218270479195148,Nepal
+NRU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,22698.43507683632,Nauru
+NRU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,Nauru
+NRU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,Nauru
+NRU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,Nauru
+NRU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,Nauru
+NRU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,7093.0,Nauru
+NRU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,Nauru
+NZL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,74633.69897073443,New Zealand
+NZL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,3453239.0,New Zealand
+NZL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,New Zealand
+NZL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,3647.0,New Zealand
+NZL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.3781257322492415,New Zealand
+NZL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.001056109930416,New Zealand
+NZL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,4.04852631687659,New Zealand
+OMN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,27874.66708509641,Oman
+OMN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,3836566.0,Oman
+OMN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Oman
+OMN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,297.0,Oman
+OMN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0307933486366944,Oman
+OMN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,7.741297816849756e-05,Oman
+OMN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.2967574400701719,Oman
+PAK,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,2515.0984411018367,Pakistan
+PAK,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,148335347.0,Pakistan
+PAK,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Pakistan
+PAK,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,9264.0,Pakistan
+PAK,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.9605036423243692,Pakistan
+PAK,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,6.245308476610096e-05,Pakistan
+PAK,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.2394096958695171,Pakistan
+PAN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,29533.717672235955,Panama
+PAN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,2969081.0,Panama
+PAN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Panama
+PAN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,703.0,Panama
+PAN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0728879599043643,Panama
+PAN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0002367736009896,Panama
+PAN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.9076556588864464,Panama
+PER,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,12646.323877661176,Peru
+PER,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,22858026.0,Peru
+PER,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Peru
+PER,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,5060.0,Peru
+PER,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.5246274212177577,Peru
+PER,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0002213664469539,Peru
+PER,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.8485933711590928,Peru
+PHL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,5979.632691012824,Philippines
+PHL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,77198220.0,Philippines
+PHL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Philippines
+PHL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,9075.0,Philippines
+PHL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.9409078750101088,Philippines
+PHL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0001175545239255,Philippines
+PHL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.4506373532469348,Philippines
+PLW,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,24558.587479935795,Palau
+PLW,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,Palau
+PLW,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,Palau
+PLW,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,Palau
+PLW,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,Palau
+PLW,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,12460.0,Palau
+PLW,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,Palau
+PNG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,4746.363305666457,Papua New Guinea
+PNG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,6669106.0,Papua New Guinea
+PNG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Papua New Guinea
+PNG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,68.0,Papua New Guinea
+PNG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.007050328980792,Papua New Guinea
+PNG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,1.019626918510517e-05,Papua New Guinea
+PNG,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0390867114691308,Papua New Guinea
+POL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,38209.25361666856,Poland
+POL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,23779135.0,Poland
+POL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Poland
+POL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,9972.0,Poland
+POL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,1.0339100087714386,Poland
+POL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0004193592407797,Poland
+POL,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.6075854166559187,Poland
+PRI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,59332.5492819456,Puerto Rico
+PRI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,2038982.0,Puerto Rico
+PRI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Puerto Rico
+PRI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,444.0,Puerto Rico
+PRI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0460345009922301,Puerto Rico
+PRI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0002177557231991,Puerto Rico
+PRI,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.834751904732923,Puerto Rico
+PRT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,46013.61009194968,Portugal
+PRT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,6706494.0,Portugal
+PRT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Portugal
+PRT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,3521.0,Portugal
+PRT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.3650618873730681,Portugal
+PRT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0005250135167495,Portugal
+PRT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,2.012603970534846,Portugal
+PRY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,9785.666997682889,Paraguay
+PRY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,4495248.0,Paraguay
+PRY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Paraguay
+PRY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,677.0,Paraguay
+PRY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0701922458822968,Paraguay
+PRY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0001506034817211,Paraguay
+PRY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.5773283079736656,Paraguay
+PSE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,3073799.0,Palestinian Territory
+PSE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Palestinian Territory
+PSE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,307.0,Palestinian Territory
+PSE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.031830161722105,Palestinian Territory
+PSE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,9.987640701295042e-05,Palestinian Territory
+PSE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.3828694822211485,Palestinian Territory
+PYF,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,196066.0,French Polynesia
+PYF,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,French Polynesia
+PYF,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,60.0,French Polynesia
+PYF,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0062208785124635,French Polynesia
+PYF,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.00030601940163,French Polynesia
+PYF,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.173104773748377,French Polynesia
+QAT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,93076.97642309398,Qatar
+QAT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,2379235.0,Qatar
+QAT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Qatar
+QAT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,476.0,Qatar
+QAT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.049352302865544,Qatar
+QAT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0002000643063841,Qatar
+QAT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.7669330494269564,Qatar
+REU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,160.0,Reunion
+REU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0165890093665694,Reunion
+ROU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,31327.812791877608,Romania
+ROU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,12262203.0,Romania
+ROU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Romania
+ROU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,3327.0,Romania
+ROU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.3449477135161027,Romania
+ROU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0002713215561673,Romania
+ROU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.040092919159192,Romania
+RWA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,1702.5314089029812,Rwanda
+RWA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,8370477.0,Rwanda
+RWA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Rwanda
+RWA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,653.0,Rwanda
+RWA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0677038944773114,Rwanda
+RWA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,7.801228054267397e-05,Rwanda
+RWA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.2990548253742415,Rwanda
+SAU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,41985.79854903164,Saudi Arabia
+SAU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,25850598.0,Saudi Arabia
+SAU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Saudi Arabia
+SAU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,2794.0,Saudi Arabia
+SAU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.2896855760637183,Saudi Arabia
+SAU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.000108082606058,Saudi Arabia
+SAU,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.4143273937878727,Saudi Arabia
+SEN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,3054.5670941438534,Senegal
+SEN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,10768138.0,Senegal
+SEN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Senegal
+SEN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,828.0,Senegal
+SEN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0858481234719967,Senegal
+SEN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,7.689351678070991e-05,Senegal
+SEN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.294766119812222,Senegal
+SGP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,121453.275988157,Singapore
+SGP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,4506976.0,Singapore
+SGP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Singapore
+SGP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,5375.0,Singapore
+SGP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.5572870334081912,Singapore
+SGP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0011925956561561,Singapore
+SGP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,4.571735157758412,Singapore
+SLB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,3652.410549855301,Solomon Islands
+SLB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,Solomon Islands
+SLB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,Solomon Islands
+SLB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,Solomon Islands
+SLB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,Solomon Islands
+SLB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,486528.0,Solomon Islands
+SLB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,Solomon Islands
+SLE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,1509.4225004344053,Sierra Leone
+SLE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,5070151.0,Sierra Leone
+SLE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Sierra Leone
+SLE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,54.0,Sierra Leone
+SLE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0055987906612171,Sierra Leone
+SLE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,1.0650570367628104e-05,Sierra Leone
+SLE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0408282444670335,Sierra Leone
+SLV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,8315.64872508447,El Salvador
+SLV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,4249458.0,El Salvador
+SLV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,El Salvador
+SLV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,443.0,El Salvador
+SLV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.045930819683689,El Salvador
+SLV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0001042485888788,El Salvador
+SLV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.399629947052067,El Salvador
+SMR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,92936.3005676187,San Marino
+SMR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,22198.0,San Marino
+SMR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,San Marino
+SMR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,17.0,San Marino
+SMR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.001762582245198,San Marino
+SMR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0007658347598882,San Marino
+SMR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,2.935775993096779,San Marino
+SRB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,21462.94212470453,Serbia
+SRB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,4150130.0,Serbia
+SRB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Serbia
+SRB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,1539.0,Serbia
+SRB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.1595655338446895,Serbia
+SRB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0003708317570774,Serbia
+SRB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.421558574939597,Serbia
+STP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,5799.635701275046,Sao Tome and Principe
+STP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,Sao Tome and Principe
+STP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,Sao Tome and Principe
+STP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,Sao Tome and Principe
+STP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,Sao Tome and Principe
+STP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,137250.0,Sao Tome and Principe
+STP,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,Sao Tome and Principe
+SUR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,10572.67468747999,Suriname
+SUR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,421653.0,Suriname
+SUR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Suriname
+SUR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,26.0,Suriname
+SUR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0026957140220675,Suriname
+SUR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,6.166207758512331e-05,Suriname
+SUR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.2363774230948782,Suriname
+SVK,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,39478.15712832029,Slovakia
+SVK,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,3562375.0,Slovakia
+SVK,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Slovakia
+SVK,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,903.0,Slovakia
+SVK,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0936242216125761,Slovakia
+SVK,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.000253482578336,Slovakia
+SVK,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.9717083986314544,Slovakia
+SVN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,53656.97978357421,Slovenia
+SVN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,1350486.0,Slovenia
+SVN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Slovenia
+SVN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,583.0,Slovenia
+SVN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0604462028794373,Slovenia
+SVN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.000431696441133,Slovenia
+SVN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.654879243622467,Slovenia
+SWE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,92702.13665967331,Sweden
+SWE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,6581488.0,Sweden
+SWE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Sweden
+SWE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,3775.0,Sweden
+SWE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.3913969397424971,Sweden
+SWE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.00057357849775,Sweden
+SWE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,2.198774555619245,Sweden
+SWZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,6705.410759611218,Eswatini
+SWZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,775344.0,Eswatini
+SWZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Eswatini
+SWZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,40.0,Eswatini
+SWZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0041472523416423,Eswatini
+SWZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,5.1590003920840295e-05,Eswatini
+SWZ,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.1977668067935001,Eswatini
+SXM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,Sint Maarten
+SXM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,Sint Maarten
+SXM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,Sint Maarten
+SXM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,Sint Maarten
+SXM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,30745.0,Sint Maarten
+SXM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,Sint Maarten
+SYC,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,24982.71491126988,Seychelles
+SYC,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,86780.0,Seychelles
+SYC,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Seychelles
+SYC,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,19.0,Seychelles
+SYC,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0019699448622801,Seychelles
+SYC,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0002189444572482,Seychelles
+SYC,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.839308836679964,Seychelles
+TCA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,Turks and Caicos Islands
+TCA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,Turks and Caicos Islands
+TCA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,Turks and Caicos Islands
+TCA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,Turks and Caicos Islands
+TCA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,33820.0,Turks and Caicos Islands
+TCA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,Turks and Caicos Islands
+TCD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,1813.1504634520168,Chad
+TCD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,10522017.0,Chad
+TCD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Chad
+TCD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,67.0,Chad
+TCD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0069466476722509,Chad
+TCD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,6.367600432502627e-06,Chad
+TCD,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0244097675667019,Chad
+TGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,1794.2569461842215,Togo
+TGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,5448495.0,Togo
+TGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Togo
+TGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,159.0,Togo
+TGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0164853280580283,Togo
+TGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,2.918237054452652e-05,Togo
+TGO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.1118686528132696,Togo
+THA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,10509.89704549089,Thailand
+THA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,50087170.0,Thailand
+THA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Thailand
+THA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,12219.0,Thailand
+THA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,1.266881909063198,Thailand
+THA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0002439546893945,Thailand
+THA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.9351838778279836,Thailand
+TJK,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,2135.408282527255,Tajikistan
+TJK,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,6342581.0,Tajikistan
+TJK,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Tajikistan
+TJK,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,98.0,Tajikistan
+TJK,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0101607682370237,Tajikistan
+TJK,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,1.5451123131103883e-05,Tajikistan
+TJK,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0592308402941836,Tajikistan
+TKM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,17213.224529371688,Turkmenistan
+TKM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,4793698.0,Turkmenistan
+TKM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Turkmenistan
+TKM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,18.0,Turkmenistan
+TKM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.001866263553739,Turkmenistan
+TKM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,3.754929910061084e-06,Turkmenistan
+TKM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.014394271013928,Turkmenistan
+TLS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,2355.9425874914064,Timor Leste
+TLS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,855284.0,Timor Leste
+TLS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Timor Leste
+TLS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,34.0,Timor Leste
+TLS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.003525164490396,Timor Leste
+TLS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,3.975287740680289e-05,Timor Leste
+TLS,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.1523899792227197,Timor Leste
+TON,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,8938.936614813096,Tonga
+TON,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,Tonga
+TON,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,Tonga
+TON,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,Tonga
+TON,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,Tonga
+TON,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,60298.0,Tonga
+TON,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,Tonga
+TTO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,26700.532253205238,Trinidad and Tobago
+TTO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,955936.0,Trinidad and Tobago
+TTO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Trinidad and Tobago
+TTO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,176.0,Trinidad and Tobago
+TTO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0182479103032263,Trinidad and Tobago
+TTO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0001841127439493,Trinidad and Tobago
+TTO,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.7057838087535128,Trinidad and Tobago
+TUN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,6506.121121775293,Tunisia
+TUN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,8155858.0,Tunisia
+TUN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Tunisia
+TUN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,1886.0,Tunisia
+TUN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.1955429479084369,Tunisia
+TUN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0002312448304028,Tunisia
+TUN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.8864614890600662,Tunisia
+TUR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,22651.31044718029,Turkey
+TUR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,58380949.0,Turkey
+TUR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Turkey
+TUR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,10402.0,Turkey
+TUR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,1.078492971444094,Turkey
+TUR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.000178174561705,Turkey
+TUR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.6830201869010764,Turkey
+TUV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,11158.798283261802,Tuvalu
+TUV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,Tuvalu
+TUV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,Tuvalu
+TUV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,Tuvalu
+TUV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,Tuvalu
+TUV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,5825.0,Tuvalu
+TUV,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,Tuvalu
+TWN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,48391.047952063214,Taiwan
+TWN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,16169127.0,Taiwan
+TWN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,Taiwan
+TWN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,9680.0,Taiwan
+TWN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,1.0036350666774494,Taiwan
+TWN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.000598671777394,Taiwan
+TWN,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,2.2949679537585976,Taiwan
+TZA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,2148.799090380761,Tanzania
+TZA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,37309677.0,Tanzania
+TZA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Tanzania
+TZA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,405.0,Tanzania
+TZA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0419909299591288,Tanzania
+TZA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,1.085509263454626e-05,Tanzania
+TZA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0416122668080403,Tanzania
+UGA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,2079.882474647875,Uganda
+UGA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,27142399.0,Uganda
+UGA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Uganda
+UGA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,608.0,Uganda
+UGA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0630382355929637,Uganda
+UGA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,2.2400378094802892e-05,Uganda
+UGA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0858703413470118,Uganda
+UKR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,7490.372998752378,Ukraine
+UKR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,25422766.0,Ukraine
+UKR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Ukraine
+UKR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,6122.0,Ukraine
+UKR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.6347369708883622,Ukraine
+UKR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.000240807786218,Ukraine
+UKR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.9231204363626976,Ukraine
+URY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,36408.30401277872,Uruguay
+URY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,2223696.0,Uruguay
+URY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Upper middle (50-75%),3.0,Uruguay
+URY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,762.0,Uruguay
+URY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0790051571082868,Uruguay
+URY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0003426727394392,Uruguay
+URY,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,1.3136128765963584,Uruguay
+USA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,132531.7570859901,United States
+USA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,220210617.0,United States
+USA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Leading (top 25%),4.0,United States
+USA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,208200.0,United States
+USA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,21.58644843824845,United States
+USA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.000945458501667,United States
+USA,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,3.6243515142461553,United States
+UZB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,5015.875475814878,Uzbekistan
+UZB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,22919628.0,Uzbekistan
+UZB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Uzbekistan
+UZB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,479.0,Uzbekistan
+UZB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0496633467911671,Uzbekistan
+UZB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,2.08991175598487e-05,Uzbekistan
+UZB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0801153601568852,Uzbekistan
+VCT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,17284.20770798316,Saint Vincent and the Grenadines
+VCT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,Saint Vincent and the Grenadines
+VCT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,Saint Vincent and the Grenadines
+VCT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,Saint Vincent and the Grenadines
+VCT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,Saint Vincent and the Grenadines
+VCT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,67229.0,Saint Vincent and the Grenadines
+VCT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,Saint Vincent and the Grenadines
+VGB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,British Virgin Islands
+VGB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,British Virgin Islands
+VGB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,British Virgin Islands
+VGB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,British Virgin Islands
+VGB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,29952.0,British Virgin Islands
+VGB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,British Virgin Islands
+VIR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,U.S. Virgin Islands
+VIR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,U.S. Virgin Islands
+VIR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,U.S. Virgin Islands
+VIR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,U.S. Virgin Islands
+VIR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,63475.0,U.S. Virgin Islands
+VIR,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,U.S. Virgin Islands
+VNM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,6717.646893699442,Vietnam
+VNM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,68397760.0,Vietnam
+VNM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Vietnam
+VNM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,10651.0,Vietnam
+VNM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,1.1043096172708176,Vietnam
+VNM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0001557214739196,Vietnam
+VNM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.5969477865036321,Vietnam
+VUT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,6411.074253636131,Vanuatu
+VUT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,Vanuatu
+VUT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,Vanuatu
+VUT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,Vanuatu
+VUT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,Vanuatu
+VUT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,188112.0,Vanuatu
+VUT,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,Vanuatu
+WSM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,8801.859269148988,Samoa
+WSM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,0.0,Samoa
+WSM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0,Samoa
+WSM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0,Samoa
+WSM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.0,Samoa
+WSM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,121338.0,Samoa
+WSM,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Minimal,0.0,Samoa
+XKX,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,10548.29170836731,Kosovo
+XKX,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,1057138.0,Kosovo
+XKX,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,Kosovo
+XKX,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,118.0,Kosovo
+XKX,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0122343944078449,Kosovo
+XKX,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.00011162213448,Kosovo
+XKX,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.4278959376989321,Kosovo
+ZAF,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,9272.848440503294,South Africa
+ZAF,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,43157289.0,South Africa
+ZAF,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Lower middle (25-50%),2.0,South Africa
+ZAF,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,5152.0,South Africa
+ZAF,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.5341661016035351,South Africa
+ZAF,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,0.0001193772852599,South Africa
+ZAF,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.4576247861071426,South Africa
+ZMB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,2182.304943750481,Zambia
+ZMB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,12063392.0,Zambia
+ZMB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Zambia
+ZMB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,359.0,Zambia
+ZMB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0372215897662401,Zambia
+ZMB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,2.9759457373183263e-05,Zambia
+ZMB,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.1140808763192254,Zambia
+ZWE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,gdp_per_working_age_capita,,3813.703651493488,Zimbabwe
+ZWE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,working_age_pop,,9236166.0,Zimbabwe
+ZWE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_tier,Emerging (bottom 25%),1.0,Zimbabwe
+ZWE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,370.0,Zimbabwe
+ZWE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,0.0383620841601917,Zimbabwe
+ZWE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita,,4.005991230560386e-05,Zimbabwe
+ZWE,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_per_capita_index,,0.1535669768365056,Zimbabwe
+not_classified,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_count,,150999.0,not_classified
+not_classified,country,2025-08-04,2025-08-11,Claude AI (Free and Pro),country,0,usage_pct,,15.655773908391344,not_classified

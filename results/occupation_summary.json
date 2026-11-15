@@ -1,0 +1,56 @@
+[
+  {
+    "node_external_id": "15",
+    "node_name": "Computer and Mathematical",
+    "pct_chat": 23.8,
+    "collaboration_bucket_automation_pct_chat": 63.9,
+    "pct_api": 28.17,
+    "collaboration_bucket_automation_pct_api": 94.58,
+    "share_ratio_api_chat": 1.1836134453781513
+  },
+  {
+    "node_external_id": "27",
+    "node_name": "Arts, Design, Entertainment, Sports, and Media",
+    "pct_chat": 13.55,
+    "collaboration_bucket_automation_pct_chat": 35.85,
+    "pct_api": 12.64,
+    "collaboration_bucket_automation_pct_api": 94.83,
+    "share_ratio_api_chat": 0.9328413284132842
+  },
+  {
+    "node_external_id": "43",
+    "node_name": "Office and Administrative Support",
+    "pct_chat": 7.89,
+    "collaboration_bucket_automation_pct_chat": 56.02,
+    "pct_api": 11.92,
+    "collaboration_bucket_automation_pct_api": 94.41,
+    "share_ratio_api_chat": 1.5107731305449936
+  },
+  {
+    "node_external_id": "11",
+    "node_name": "Management",
+    "pct_chat": 5.9,
+    "collaboration_bucket_automation_pct_chat": 43.9,
+    "pct_api": 6.28,
+    "collaboration_bucket_automation_pct_api": 95.58,
+    "share_ratio_api_chat": 1.0644067796610168
+  },
+  {
+    "node_external_id": "25",
+    "node_name": "Educational Instruction and Library",
+    "pct_chat": 12.79,
+    "collaboration_bucket_automation_pct_chat": 42.77,
+    "pct_api": 6.16,
+    "collaboration_bucket_automation_pct_api": 92.28,
+    "share_ratio_api_chat": 0.4816262705238468
+  },
+  {
+    "node_external_id": "13",
+    "node_name": "Business and Financial Operations",
+    "pct_chat": 5.77,
+    "collaboration_bucket_automation_pct_chat": 42.61,
+    "pct_api": 4.63,
+    "collaboration_bucket_automation_pct_api": 94.92,
+    "share_ratio_api_chat": 0.8024263431542461
+  }
+]

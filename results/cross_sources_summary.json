@@ -1,0 +1,17 @@
+{
+  "github_top_countries": 10,
+  "matched_countries": 8,
+  "excluded_countries": [
+    "China",
+    "Russia"
+  ],
+  "spearman_rho": 0.8571428571428572,
+  "warning": "Top-10 selected sample, mismatched months and accounts not persons; no causal inference.",
+  "brazil": [
+    {
+      "github_accounts_millions": 10.2,
+      "github_accounts_per_1000_working_age": 69.44224884392952,
+      "usage_per_capita_index": 0.96
+    }
+  ]
+}

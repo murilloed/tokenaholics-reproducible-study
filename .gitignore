@@ -1,0 +1,17 @@
+data/raw/
+library/
+__pycache__/
+.venv/
+*.aux
+*.bbl
+*.blg
+*.log
+*.out
+*.synctex.gz
+paper/revisao_visual/
+scripts/update_paper.py
+*.zip
+research_private/
+data/countries_2026_raw.csv
+data/aei_2026_chat_global.csv
+data/aei_2026_api_global.csv

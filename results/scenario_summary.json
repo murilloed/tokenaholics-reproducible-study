@@ -1,0 +1,8 @@
+{
+  "goldman_implied_annual_factor": 2.2133638394006434,
+  "goldman_forecast_monthly_2030_tokens": 1.2e+17,
+  "openweight_relative_cost": 0.32167832167832167,
+  "closed_relative_cost": 2.7017543859649122,
+  "closed_to_open_cost_ratio": 8.398932112890924,
+  "note": "Illustrative sensitivity, not fitted global forecast; assumes constant mix and definitions."
+}

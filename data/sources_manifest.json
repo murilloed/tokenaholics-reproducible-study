@@ -1,0 +1,216 @@
+[
+  {
+    "file": "aei_2025_enriched.csv",
+    "url": "https://huggingface.co/datasets/Anthropic/EconomicIndex/resolve/4e5f69fab13a9c3f7d0dcc31a6f893a9818738f6/release_2025_09_15/data/output/aei_enriched_claude_ai_2025-08-04_to_2025-08-11.csv",
+    "status": 200,
+    "bytes": 26840881,
+    "sha256": "48a2c39f8a98ce7c2ba72767cbe3760fd55ba4a64a193abfecefc76d19852c09",
+    "retrieved_utc": "2026-11-15T04:18:29.466581+00:00"
+  },
+  {
+    "file": "aei_2026_api.csv",
+    "url": "https://huggingface.co/datasets/Anthropic/EconomicIndex/resolve/4e5f69fab13a9c3f7d0dcc31a6f893a9818738f6/release_2026_06_26/data/aei_1p_api_2026-06-26.csv",
+    "status": 200,
+    "bytes": 77282477,
+    "sha256": "62197f003e001945ad130c2f26f5e07f3fda45ff41644df91444b04fd524a19f",
+    "retrieved_utc": "2026-11-15T04:18:33.661027+00:00"
+  },
+  {
+    "file": "aei_2026_chat.csv",
+    "url": "https://huggingface.co/datasets/Anthropic/EconomicIndex/resolve/4e5f69fab13a9c3f7d0dcc31a6f893a9818738f6/release_2026_06_26/data/aei_claude_ai_2026-06-26.csv",
+    "status": 200,
+    "bytes": 219174671,
+    "sha256": "f974b358bce0e5a8417510c61da4342234cd0de9d9d0b62acf4c6dbcf8ec7b68",
+    "retrieved_utc": "2026-11-15T04:18:51.738014+00:00"
+  },
+  {
+    "file": "anthropic2025.html",
+    "url": "https://www.anthropic.com/research/anthropic-economic-index-september-2025-report",
+    "status": 200,
+    "bytes": 426740,
+    "sha256": "6663623ed491bf215862ae81c99a4618873abd451bb08e01f834b2098fbe2d28",
+    "retrieved_utc": "2026-11-15T04:18:30.701591+00:00"
+  },
+  {
+    "file": "anthropic2026.html",
+    "url": "https://www.anthropic.com/research/economic-index-june-2026-report",
+    "status": 200,
+    "bytes": 332878,
+    "sha256": "2fd39605d5891ea433be5df1dabb532a441f898717f1638a4d1a4e3a7569f0cd",
+    "retrieved_utc": "2026-11-15T04:18:30.893901+00:00"
+  },
+  {
+    "file": "github_2025.html",
+    "url": "https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-python-to-the-top/",
+    "error": "404 Client Error: Not Found for url: https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-python-to-the-top/"
+  },
+  {
+    "file": "github_2026.html",
+    "url": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+    "status": 200,
+    "bytes": 242376,
+    "sha256": "53098ecdf36cf46a51173dceb7c49346f02d8c0c997319b5f9abed59564d8d75",
+    "retrieved_utc": "2026-11-15T04:18:26.190976+00:00"
+  },
+  {
+    "file": "goldman.html",
+    "url": "https://www.goldmansachs.com/insights/articles/ai-agents-forecast-to-boost-tech-cash-flow-as-usage-soars",
+    "status": 200,
+    "bytes": 880739,
+    "sha256": "5b2ce8e0e00090443d235ca5f08c351ef215b468152277307c7a427cf82b9767",
+    "retrieved_utc": "2026-11-15T04:18:28.949538+00:00"
+  },
+  {
+    "file": "helicone.html",
+    "url": "https://www.helicone.ai/",
+    "status": 200,
+    "bytes": 116543,
+    "sha256": "8d4fe9ed603e449ddd3fd30c70c29a7ceef07282fe7eb1f029dd6c2148f43113",
+    "retrieved_utc": "2026-11-15T04:18:28.466787+00:00"
+  },
+  {
+    "file": "mckinsey.html",
+    "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+    "error": "HTTPSConnectionPool(host='www.mckinsey.com', port=443): Read timed out. (read timeout=150)"
+  },
+  {
+    "file": "openrouter.html",
+    "url": "https://openrouter.ai/state-of-ai",
+    "status": 200,
+    "bytes": 528549,
+    "sha256": "4d76f3ad0ae95201552b659f95601fdc06ee7fb7c3c8b1de6d5b00c2bdce9ceb",
+    "retrieved_utc": "2026-11-15T04:18:24.998366+00:00"
+  },
+  {
+    "file": "openrouter_2026.pdf",
+    "url": "https://arxiv.org/pdf/2601.10088",
+    "status": 200,
+    "bytes": 10672952,
+    "sha256": "0a3cc52bad6961424c9e6fe83351d2208c5311f99e7e7d6afa65e494de3c4535",
+    "retrieved_utc": "2026-11-15T04:18:29.415148+00:00"
+  },
+  {
+    "file": "portkey.html",
+    "url": "https://portkey.ai/blog/1-trillion-tokens-and-the-death-of-the-chatbot/",
+    "status": 200,
+    "bytes": 26704,
+    "sha256": "84c9f242248c9e1f8b820e7a226f1ae8b14eff9344fe18f2ea689b0c0dd2ccc8",
+    "retrieved_utc": "2026-11-15T04:18:28.436864+00:00"
+  },
+  {
+    "file": "stanford2025.html",
+    "url": "https://hai.stanford.edu/ai-index/2025-ai-index-report",
+    "status": 200,
+    "bytes": 398561,
+    "sha256": "22abedc337f5f061e29973347c242b079b622de6c5bf4aa77ef941f51cdcf6c7",
+    "retrieved_utc": "2026-11-15T04:18:30.971987+00:00"
+  },
+  {
+    "file": "stanford2026.html",
+    "url": "https://hai.stanford.edu/ai-index/2026-ai-index-report",
+    "status": 200,
+    "bytes": 418474,
+    "sha256": "85ef8730f730b3153160f2ac43b42437fcb968bb9faf855747b89592c4fa5f04",
+    "retrieved_utc": "2026-11-15T04:18:29.972220+00:00"
+  },
+  {
+    "file": "vercel_labs.json",
+    "url": "https://vercel.com/api/ai/leaderboard-export?dataset=labs&modality=text",
+    "status": 200,
+    "bytes": 671640,
+    "sha256": "4bdfb0e4994fd3b405980e410507729696461df1e1d014318aa32f30998c93f5",
+    "retrieved_utc": "2026-11-15T04:18:25.036459+00:00"
+  },
+  {
+    "file": "vercel_models.json",
+    "url": "https://vercel.com/api/ai/leaderboard-export?dataset=models&modality=text",
+    "status": 200,
+    "bytes": 202722,
+    "sha256": "bc79339e42ff834e94ead8fc26f0f991c7683d68042d7f04d92acee6e856682d",
+    "retrieved_utc": "2026-11-15T04:18:25.291351+00:00"
+  },
+  {
+    "file": "vercel_november.html",
+    "url": "https://vercel.com/blog/ai-gateway-production-index-november-2026",
+    "status": 200,
+    "bytes": 743859,
+    "sha256": "9e7a988e2e55f29bcb2c67a3919d2caea7a9a7ac9f54b52d631a6db6cd9883aa",
+    "retrieved_utc": "2026-11-15T04:18:27.065421+00:00"
+  },
+  {
+    "file": "vercel_october.html",
+    "url": "https://vercel.com/blog/ai-gateway-production-index-october-2026",
+    "status": 200,
+    "bytes": 1699786,
+    "sha256": "b9834571ef74df5c2d452302e224f8c6cff7c1451c731ce669cf3a88445c65ea",
+    "retrieved_utc": "2026-11-15T04:18:26.759733+00:00"
+  },
+  {
+    "file": "google2026.html",
+    "url": "https://blog.google/alphabet/investor-presentation-june-2026/",
+    "status": 200,
+    "bytes": 375227,
+    "sha256": "7048268df7a9f9d12165faf1f6483cac40c79b4049f75c43e4ab6eedb7543a46",
+    "retrieved_utc": "2026-11-15T04:23:14.166760+00:00"
+  },
+  {
+    "file": "google2025.html",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/io-2025-keynote/",
+    "status": 200,
+    "bytes": 411588,
+    "sha256": "e5ece251d57e8e708b3a29a1a4531eeceeff4f705ef56259c2758b136df9f921",
+    "retrieved_utc": "2026-11-15T04:23:14.260726+00:00"
+  },
+  {
+    "file": "langfuse2026.html",
+    "url": "https://langfuse.com/changelog/2026-11-06-retiring-tokenization",
+    "status": 200,
+    "bytes": 260773,
+    "sha256": "0f11258489ab1f4b1608fa4eb3c723c19d6d4ca42e53ea6588916e73132c7c47",
+    "retrieved_utc": "2026-11-15T04:23:13.725658+00:00"
+  },
+  {
+    "file": "litellm.html",
+    "url": "https://docs.litellm.ai/docs/proxy/cost_tracking",
+    "status": 200,
+    "bytes": 343248,
+    "sha256": "1c172518c6951d8c1c3dff226237ddf298875123bd7edad1519809c902dfdd01",
+    "retrieved_utc": "2026-11-15T04:23:14.001142+00:00"
+  },
+  {
+    "file": "portkey_rankings.html",
+    "url": "https://portkey.ai/rankings/weekly",
+    "status": 200,
+    "bytes": 265296,
+    "sha256": "07f43e4b232a1da1f762030582bb7c9b24d66f5699e9f2da7e42fa804ebd2856",
+    "retrieved_utc": "2026-11-15T04:23:14.394705+00:00"
+  },
+  {
+    "file": "token_cost_2026.pdf",
+    "url": "https://arxiv.org/pdf/2604.22750",
+    "status": 200,
+    "bytes": 1294905,
+    "sha256": "ae09e14c45dba82ccef171a4c72eff535064813290da8b0a52ce251135ce3461",
+    "retrieved_utc": "2026-11-15T04:23:14.625473+00:00"
+  },
+  {
+    "file": "stanford2025.pdf",
+    "url": "https://hai.stanford.edu/assets/files/hai_ai_index_report_2025.pdf",
+    "status": 200,
+    "bytes": 30264659,
+    "sha256": "eef7a13bf536a20dc29a95943c3202942fa00ed5d1030c06eabce9c31e9da07a",
+    "retrieved_utc": "2026-11-15T04:23:16.472767+00:00"
+  },
+  {
+    "file": "mckinsey2026.pdf",
+    "url": "https://www.mckinsey.com/~/media/mckinsey/business%20functions/quantumblack/our%20insights/the%20state%20of%20ai/the-state-of-ai-in-2026-on-the-road-to-roi.pdf",
+    "error": "('Connection aborted.', ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None))"
+  },
+  {
+    "file": "mckinsey.web.json",
+    "url": "https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai",
+    "method": "official website via web tool; direct download failed",
+    "bytes": 24471,
+    "sha256": "90fb7c217b54e191d2aa9162ab81c5e6c25882ca01ac4fb9027374b649aae084"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "pages_including_references": 19,
+  "limit": 25,
+  "references": 29,
+  "figures": 3,
+  "latex_problems": [],
+  "visual_review": "Todas as páginas renderizadas e inspecionadas; sem cortes ou sobreposição observados.",
+  "checks": "Six numerical and provenance tests; offline reproduction; temporal holdout retained."
+}

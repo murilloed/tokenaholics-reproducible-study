@@ -1,0 +1,10 @@
+scenario,token_factor,unit_price_factor,spend_factor
+Moderado,1.25,0.5,0.625
+Moderado,1.25,0.75,0.9375
+Moderado,1.25,1.0,1.25
+Expansao,1.5,0.5,0.75
+Expansao,1.5,0.75,1.125
+Expansao,1.5,1.0,1.5
+Trajetoria_Goldman_ilustrativa,2.2133638394006434,0.5,1.1066819197003217
+Trajetoria_Goldman_ilustrativa,2.2133638394006434,0.75,1.6600228795504826
+Trajetoria_Goldman_ilustrativa,2.2133638394006434,1.0,2.2133638394006434

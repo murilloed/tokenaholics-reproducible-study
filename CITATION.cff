@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Cite este projeto ao reutilizar o código e as análises. Cite também as fontes dos dados."
+type: software
+title: "Tokenaholics: análise reproduzível de uso de IA e consumo computacional"
+authors:
+  - family-names: "Souza"
+    given-names: "Murillo Edson de Carvalho"
+    affiliation: "Universidade de Brasília — Departamento de Ciências da Computação"
+version: 0.2.0
+repository-code: "https://github.com/murilloed/tokenaholics-reproducible-study"
+license: MIT
