@@ -1,5 +1,12 @@
 # Histórico de versões
 
+## Complemento em inglês da edição 0.3.1
+
+- Tradução integral do artigo, legendas, três figuras e notas bibliográficas; 20 páginas com referências.
+- Fontes e saídas em inglês separadas, preservando a edição em português e a referência numérica.
+- Guia de reprodução em inglês e opções `--language en` para compilação e validação.
+- Complemento posterior à tag original `v0.3.1`; o commit da tradução identifica os novos arquivos.
+
 ## 0.3.1
 
 - Revisão de coerência entre pergunta, objetivos, resumo, métodos, resultados e conclusões.

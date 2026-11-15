@@ -1,5 +1,7 @@
 # Tokenaholics — pesquisa reproduzível
 
+[English research and reproduction guide](README.en.md)
+
 [![Reprodução e testes](https://github.com/murilloed/tokenaholics-reproducible-study/actions/workflows/reproduce.yml/badge.svg)](https://github.com/murilloed/tokenaholics-reproducible-study/actions/workflows/reproduce.yml)
 
 **Autor:** Murillo Edson de Carvalho Souza — Universidade de Brasília (UnB), Departamento de Ciências da Computação.
@@ -11,6 +13,7 @@ O projeto investiga diferenças geográficas e ocupacionais no uso de IA, relaç
 ## Comece por aqui
 
 - [Artigo em PDF — v0.3.1](paper/Tokenaholics-v0.3.1.pdf) e [fonte LaTeX](paper/main.tex).
+- [English article — v0.3.1 translation](paper/Tokenaholics-v0.3.1-en.pdf), [English LaTeX](paper/main_en.tex) e [instruções de compilação](README.en.md#build-the-english-manuscript).
 - [Escopo e perguntas de pesquisa](docs/ESCOPO.md).
 - [Revisão de coerência entre discurso, dados e resultados](docs/REVISAO_COERENCIA.md).
 - [Métodos e limites](docs/METODOLOGIA.md).
